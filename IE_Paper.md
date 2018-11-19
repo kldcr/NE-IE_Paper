@@ -17,6 +17,6 @@
 |13 |Event Detection with Neural Networks: A Rigorous Empirical Evaluation. |Walker Orr, Prasad Tadepalli and Xiaoli Fern  |2018|EMNLP|[paper](http://aclweb.org/anthology/D18-1122)||事件检测|
 |14 |Exploiting Contextual Information via Dynamic Memory Network for Event Detection.  |Shaobo Liu, Rui Cheng, Xiaoming Yu and Xueqi Cheng  |2018|EMNLP|[paper](http://aclweb.org/anthology/D18-1127)||事件检测|
 |15 |Jointly Multiple Events Extraction via Attention-based Graph Information Aggregation.  | Xiao Liu, Zhunchen Luo and Heyan Huang   |2018|EMNLP|[paper](http://aclweb.org/anthology/D18-1156)||事件检测|
-|16 |Collective Event Detection via a Hierarchical and Bias Tagging Networks with Gated Multi-level Attention Mechanisms.  | Yubo Chen, Hang Yang, Kang Liu, Jun Zhao and Yantao Jia   |2018|EMNLP|[paper]http://aclweb.org/anthology/D18-1158)||事件检测|
+|16 |Collective Event Detection via a Hierarchical and Bias Tagging Networks with Gated Multi-level Attention Mechanisms.  | Yubo Chen, Hang Yang, Kang Liu, Jun Zhao and Yantao Jia   |2018|EMNLP|[paper](http://aclweb.org/anthology/D18-1158)||事件检测|
 
 
