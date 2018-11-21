@@ -9,3 +9,7 @@
 |-|------|----|-------|----------|-------|---|
 |1 |Recent advances in document summarization|Jin-ge Yao, Xiaojun Wan ,Jianguo Xiao|2017|Knowledge and Information Systems（三区）|[paper](http://59.108.48.12/lcwm/wanxj/files/summ_survey_draft.pdf)||
 |2 |Recent automatic text summarization techniques: a survey|Mahak Gambhir, Vishal Gupta|2017|Artificial Intelligence Review(三区)|[paper](https://link.springer.com/article/10.1007/s10462-016-9475-9)||
+
+## 相关论文
+||论文题目|作者|发表年份|期刊或会议|论文链接|注释|
+|-|------|----|-------|----------|-------|---|
