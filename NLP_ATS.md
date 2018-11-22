@@ -22,4 +22,6 @@
 |5|Learning Summary Prior Representation for Extractive Summarization|Ziqiang Cao, Furu Wei, Sujian Li, Wenjie Li|2015|ACL|[paper](http://www.aclweb.org/anthology/P15-2136)|extractive模型＋CNN|
 |6|AttSum: Joint Learning of Focusing and Summarization with Neural|Ziqiang Cao, Wenjie Li, Sujian Li|201６|COLING|[paper](http://www.aclweb.org/anthology/C16-1053)|extractive模型＋Attention+DUC|
 |7|Fear the REAPER: A System for Automatic Multi-Document Summarization with Reinforcement Learning|Cody Rioux, Sadid A. Hasan|2014|ACL|[paper](http://anthology.aclweb.org/D/D14/D14-1075.pdf)|extractive模型＋强化学习+Multi-Document|
+|8 |Real-Time Web Scale Event Summarization Using Sequential Decision Making|Chris Kedzie
+, Fernando Diaz |2016|ArXiv|[paper](https://arxiv.org/pdf/1605.03664.pdf)|TREC数据集|
 
