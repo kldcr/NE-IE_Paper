@@ -29,3 +29,5 @@
 |12|Single Document Summarization based on Nested Tree Structure|Yuta Kikuchi, Tsutomu Hirao|2014|ACL|[paper](http://www.aclweb.org/anthology/P14-2052)|句子间依赖关系+词间依赖关系+句子压缩|
 |13|Learning-based single-document summarization with compression and anaphoricity constraints|Greg Durrett，Taylor Berg-Kirkpatrick|2016|ACL|[paper](https://arxiv.org/pdf/1603.08887.pdf)|句子压缩+结构约束（代词）两种约束|
 |14|Multi-Document Abstractive Summarization Using ILP based Multi-Sentence Compression|Banerjee S, Mitra P, Sugiyama K|2015|IJCAI|[paper](https://arxiv.org/pdf/1609.07034.pdf)|生成式摘要+word图最小路径|
+|15|Toward abstractive summarization using semantic representations|Fei Liu， Jeffrey Flanigan Samh|2015|ACL|[paper](https://www.aclweb.org/anthology/N15-1114)|生成式摘要+Abstract Meaning
+Representation+图|
