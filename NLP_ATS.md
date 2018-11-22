@@ -25,4 +25,4 @@
 |8|Real-Time Web Scale Event Summarization Using Sequential Decision Making||2016|arXiv|[paper](https://arxiv.org/pdf/1605.03664.pdf)|TREC数据集|
 |9|A Sentence Compression Based Framework to Query-Focused Multi-Document Summarization|Lu Wang, Claire Cardie|2013|ACL|[paper](https://www.cs.cornell.edu/home/cardie/papers/acl13-Sentence.pdf)|结合多个特定打分器构造打分函数+句子压缩+query+Multi-document|
 |10 |Jointly Learning to Extract and Compress|Taylor Berg-Kirkpatrick Dan Gillick Dan Klein|2011|ACL|[paper](http://nlp.cs.berkeley.edu/pubs/BergKirkpatrick-Gillick-Klein_2011_Summary_paper.pdf)|Mlti-task+压缩句子|
-
+|11|Fast and robust compressive summarization with dual decomposition and multi-task learning.|Miguel B. Almeida|2013|ACL|[paper](https://pdfs.semanticscholar.org/6401/9361de1d4fa54a7fc5949f3c4f568a6f334c.pdf)|改ILP框架为AD3，运行快+multi-task框架|
