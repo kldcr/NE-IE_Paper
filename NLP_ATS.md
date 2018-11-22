@@ -16,4 +16,4 @@
 ||论文题目|作者|发表年份|期刊或会议|论文链接|注释|
 |-|------|----|-------|----------|-------|---|
 |1|LCSTS: A Large Scale Chinese Short Text Summarization Dataset|Baotian Hu Qingcai Chen Fangze Zhu|2015|EMNLP|[paper](http://aclweb.org/anthology/D15-1229)|基于新浪数据贡献大规模中文数据集|
-|2|A repository of state of the art and competitive baseline summaries for generic news summarization.|Hong K, Conroy J, Favre B, Kulesza A, Lin H, Nenkova A|2014|LREC|[paper](http://www.lrec-conf.org/proceedings/lrec2014/pdf/1093_Paper.pdf)|在DUC数据集上多种方法对比|
+|2|A repository of state of the art and competitive baseline summaries for generic news summarization.|Hong K, Conroy J, Favre B, Kulesza A, Lin H, Nenkova A|2014|LREC|[paper](http://www.lrec-conf.org/proceedings/lrec2014/pdf/1093_Paper.pdf)|在DUC数据集上多种extractice方法对比|
