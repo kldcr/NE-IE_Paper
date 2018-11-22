@@ -26,3 +26,4 @@
 |9|A Sentence Compression Based Framework to Query-Focused Multi-Document Summarization|Lu Wang, Claire Cardie|2013|ACL|[paper](https://www.cs.cornell.edu/home/cardie/papers/acl13-Sentence.pdf)|结合多个特定打分器构造打分函数+句子压缩+query+Multi-document|
 |10 |Jointly Learning to Extract and Compress|Taylor Berg-Kirkpatrick Dan Gillick Dan Klein|2011|ACL|[paper](http://nlp.cs.berkeley.edu/pubs/BergKirkpatrick-Gillick-Klein_2011_Summary_paper.pdf)|Mlti-task+压缩句子|
 |11|Fast and robust compressive summarization with dual decomposition and multi-task learning.|Miguel B. Almeida|2013|ACL|[paper](https://pdfs.semanticscholar.org/6401/9361de1d4fa54a7fc5949f3c4f568a6f334c.pdf)|改ILP框架为AD3，运行快+multi-task框架|
+|12|Single Document Summarization based on Nested Tree Structure|Yuta Kikuchi, Tsutomu Hirao|2014|ACL|[paper](http://www.aclweb.org/anthology/P14-2052)|句子间依赖关系+词间依赖关系+句子压缩|
