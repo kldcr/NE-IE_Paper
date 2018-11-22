@@ -17,3 +17,6 @@
 |-|------|----|-------|----------|-------|---|
 |1|LCSTS: A Large Scale Chinese Short Text Summarization Dataset|Baotian Hu Qingcai Chen Fangze Zhu|2015|EMNLP|[paper](http://aclweb.org/anthology/D15-1229)|基于新浪数据贡献大规模中文数据集|
 |2|A repository of state of the art and competitive baseline summaries for generic news summarization.|Hong K, Conroy J, Favre B, Kulesza A, Lin H, Nenkova A|2014|LREC|[paper](http://www.lrec-conf.org/proceedings/lrec2014/pdf/1093_Paper.pdf)|在DUC数据集上多种extractice方法对比|
+|3|A Novel Feature-based Bayesian Model for Query Focused Multi-document Summarization |Jiwei Li, Sujian Li|2013|ACL|[paper](https://transacl.org/ojs/index.php/tacl/article/view/80/6)|基于topic增强连贯性|
+|4|Discovery of Topically Coherent Sentences for Extractive Summarization|Asli Celikyilmaz, Dilek Hakkani-Tur|2011|ACL|[paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.482.1376&rep=rep1&type=pdf)|基于topic增强连贯性|
+
