@@ -23,4 +23,6 @@
 |6|AttSum: Joint Learning of Focusing and Summarization with Neural|Ziqiang Cao, Wenjie Li, Sujian Li|201６|COLING|[paper](http://www.aclweb.org/anthology/C16-1053)|extractive模型＋Attention+DUC|
 |7|Fear the REAPER: A System for Automatic Multi-Document Summarization with Reinforcement Learning|Cody Rioux, Sadid A. Hasan|2014|ACL|[paper](http://anthology.aclweb.org/D/D14/D14-1075.pdf)|extractive模型＋强化学习+Multi-Document|
 |8|Real-Time Web Scale Event Summarization Using Sequential Decision Making||2016|arXiv|[paper](https://arxiv.org/pdf/1605.03664.pdf)|TREC数据集|
+|9|A Sentence Compression Based Framework to Query-Focused Multi-Document Summarization|Lu Wang, Claire Cardie|2013|ACL|[paper](https://www.cs.cornell.edu/home/cardie/papers/acl13-Sentence.pdf)|结合多个特定打分器构造打分函数+句子压缩+query+Multi-document|
+|10 |Jointly Learning to Extract and Compress|Taylor Berg-Kirkpatrick Dan Gillick Dan Klein|2011|ACL|[paper](http://nlp.cs.berkeley.edu/pubs/BergKirkpatrick-Gillick-Klein_2011_Summary_paper.pdf)|Mlti-task+压缩句子|
 
