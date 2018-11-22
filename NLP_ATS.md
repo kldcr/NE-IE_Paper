@@ -15,4 +15,4 @@
 ## 相关论文
 ||论文题目|作者|发表年份|期刊或会议|论文链接|注释|
 |-|------|----|-------|----------|-------|---|
-|1|LCSTS: A Large Scale Chinese Short Text Summarization Dataset|Baotian Hu Qingcai Chen Fangze Zhu|2015|EMNLP|[paper]()|基于新浪数据贡献大规模中文数据集|
+|1|LCSTS: A Large Scale Chinese Short Text Summarization Dataset|Baotian Hu Qingcai Chen Fangze Zhu|2015|EMNLP|[paper](http://aclweb.org/anthology/D15-1229)|基于新浪数据贡献大规模中文数据集|
