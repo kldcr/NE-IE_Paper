@@ -31,3 +31,6 @@
 |14|Multi-Document Abstractive Summarization Using ILP based Multi-Sentence Compression|Banerjee S, Mitra P, Sugiyama K|2015|IJCAI|[paper](https://arxiv.org/pdf/1609.07034.pdf)|生成式摘要+word图最小路径|
 |15|Toward abstractive summarization using semantic representations|Fei Liu， Jeffrey Flanigan Samh|2015|ACL|[paper](https://www.aclweb.org/anthology/N15-1114)|生成式摘要+Abstract Meaning
 Representation+图|
+|16|Multi-document abstractive summarization using ilp based multi-sentence compression|Siddhartha Banerjee, Kazunari Sugiyama|2015|IJCAL|[paper](https://www.comp.nus.edu.sg/~sugiyama/papers/IJCAI15-174.pdf)|生成式摘要+multi-document+word-graph+最短路径|
+|17|Abstractive multi-document summarization via phrase selection and merging|Lidong Bing, Piji Li, Yi Liao|2015|ACL|[paper](https://www.cs.cmu.edu/~lbing/pub/acl2015-bing.pdf)|生成式摘要+phrase细粒度|
+|18|Improving Argument Overlap for Proposition-Based Summarisation|Yimai Fang, Simone Teufel|2016|ACL|[paper](http://www.aclweb.org/anthology/P16-2078)|生成式摘要+proposition-based|
