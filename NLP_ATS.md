@@ -39,5 +39,6 @@
 |22|Modelling events through memory-based, openie patterns for abstractive summarization.|Pighin D, Cornolti M, Alfonseca E, Filippova K|2014|ACL|[paper](http://www.aclweb.org/anthology/P14-1084)|新闻标题|
 |23|Abstractive summarization of product reviews using discourse structure|Shima Gerani, Yashar Mehdad|2014|EMNLP|[paper](http://emnlp2014.org/papers/pdf/EMNLP2014168.pdf)|discourse结构+template-bsed框架|
 |24|Opinosis: A Graph-Based Approach to Abstractive Summarization of Highly Redundant Opinions|Kavita Ganesan and ChengXiang Zhai and Jiawei Han|2010|COLING|[paper](http://aclweb.org/anthology/C10-1039)|基于graph+用户review摘要|
-|25|Abstractive sentence summarization with attentive recurrent neural networks|Sumit Chopra, Michael Auli|2016|NAACL|[paper](http://www.aclweb.org/anthology/N16-1012)|生成式摘要+RNN+Attention|
+|25|**Abstractive sentence summarization with attentive recurrent neural networks**|Sumit Chopra, Michael Auli|2016|NAACL|[paper](http://www.aclweb.org/anthology/N16-1012)|生成式摘要+RNN+Attention|
+|26|**Abstractive Text Summarization using Sequence-to-sequence RNNs and Beyond**|Ramesh Nallapati, Bowen Zhou|2016|CoNLL|[paper](http://www.aclweb.org/anthology/K16-1028)|Attention+RNN+生成式摘要|
 
