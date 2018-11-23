@@ -35,3 +35,7 @@
 |18|Improving Argument Overlap for Proposition-Based Summarisation|Yimai Fang, Simone Teufel|2016|ACL|[paper](http://www.aclweb.org/anthology/P16-2078)|生成式摘要+proposition-based|
 |19|Multi-Sentence Compression: Finding Shortest Paths in Word Graphs|Katja Filippova|2010|Coling|[paper](http://www.aclweb.org/anthology/C10-1037)|最短路径|
 |20|Unsupervised Sentence Enhancement for Automatic Summarization|Jackie Chi Kit Cheung|2014|EMNLP|[paper](http://www.aclweb.org/anthology/D14-1085)|引入外部资源作为sentence-enhencement|
+|21|HEADY: News headline abstraction through event pattern clustering|Enrique Alfonseca,Daniele Pighin|2013|ACL|[paper](http://www.aclweb.org/anthology/P13-1122)|新闻标题|
+|22|Modelling events through memory-based, openie patterns for abstractive summarization.|Pighin D, Cornolti M, Alfonseca E, Filippova K|2014|ACL|[paper](http://www.aclweb.org/anthology/P14-1084)|新闻标题|
+|23|Abstractive summarization of product reviews using discourse structure|Shima Gerani, Yashar Mehdad|2014|EMNLP|[paper](http://emnlp2014.org/papers/pdf/EMNLP2014168.pdf)|discourse结构+template-bsed框架|
+|24|Opinosis: A Graph-Based Approach to Abstractive Summarization of Highly Redundant Opinions|Kavita Ganesan and ChengXiang Zhai and Jiawei Han|2010|COLING|[paper](http://aclweb.org/anthology/C10-1039)|基于graph+用户review摘要|
