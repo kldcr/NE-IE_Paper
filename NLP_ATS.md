@@ -47,3 +47,5 @@
 |30|Neural summarization by extracting sentences and words.|Cheng J, Lapata M|2016|ACL|[paper](https://arxiv.org/pdf/1603.07252.pdf)|hierarchical + Attention|
 |31|A Dataset and Evaluation Metrics for Abstractive Compression of Sentences and Short Paragraphs|Toutanova K, Brockett C, Tran KM, Amershi S|2016|EMNLP|[paper](https://aclweb.org/anthology/D/D16/D16-1033.pdf)|Multi-reference|
 |32|Neural network-based abstract generation for opinions and arguments. |Wang L, Ling W|2016|NAACL|[paper](http://www.aclweb.org/anthology/N16-1007)|电影评价等文本中生成摘要|
+|33|Predicting salient updates for disaster summarization.|Kedzie C, McKeown K, Diaz F|2015|ACL|[paper](http://www.aclweb.org/anthology/P15-1155)|动态|
+|34|http://www.cis.pku.edu.cn/faculty/system/zhangyan/papers/SIGIR2011-yanrui.pdf|Rui Yan,Xiaojun Wan|2011|SIGIR|[paper](http://www.cis.pku.edu.cn/faculty/system/zhangyan/papers/SIGIR2011-yanrui.pdf)|动态演化|
