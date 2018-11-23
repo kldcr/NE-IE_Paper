@@ -48,4 +48,4 @@
 |31|A Dataset and Evaluation Metrics for Abstractive Compression of Sentences and Short Paragraphs|Toutanova K, Brockett C, Tran KM, Amershi S|2016|EMNLP|[paper](https://aclweb.org/anthology/D/D16/D16-1033.pdf)|Multi-reference|
 |32|Neural network-based abstract generation for opinions and arguments. |Wang L, Ling W|2016|NAACL|[paper](http://www.aclweb.org/anthology/N16-1007)|电影评价等文本中生成摘要|
 |33|Predicting salient updates for disaster summarization.|Kedzie C, McKeown K, Diaz F|2015|ACL|[paper](http://www.aclweb.org/anthology/P15-1155)|动态|
-|34Evolutionary Timeline Summarization: a Balanced Optimization Framework via Iterative Substitution|Rui Yan,Xiaojun Wan|2011|SIGIR|[paper](http://www.cis.pku.edu.cn/faculty/system/zhangyan/papers/SIGIR2011-yanrui.pdf)|动态演化|
+|34|Evolutionary Timeline Summarization: a Balanced Optimization Framework via Iterative Substitution|Rui Yan,Xiaojun Wan|2011|SIGIR|[paper](http://www.cis.pku.edu.cn/faculty/system/zhangyan/papers/SIGIR2011-yanrui.pdf)|动态演化|
