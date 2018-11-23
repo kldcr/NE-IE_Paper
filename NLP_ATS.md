@@ -34,3 +34,4 @@ Representation+图|
 |16|Multi-document abstractive summarization using ilp based multi-sentence compression|Siddhartha Banerjee, Kazunari Sugiyama|2015|IJCAL|[paper](https://www.comp.nus.edu.sg/~sugiyama/papers/IJCAI15-174.pdf)|生成式摘要+multi-document+word-graph+最短路径|
 |17|Abstractive multi-document summarization via phrase selection and merging|Lidong Bing, Piji Li, Yi Liao|2015|ACL|[paper](https://www.cs.cmu.edu/~lbing/pub/acl2015-bing.pdf)|生成式摘要+phrase细粒度|
 |18|Improving Argument Overlap for Proposition-Based Summarisation|Yimai Fang, Simone Teufel|2016|ACL|[paper](http://www.aclweb.org/anthology/P16-2078)|生成式摘要+proposition-based|
+|19|Multi-Sentence Compression: Finding Shortest Paths in Word Graphs|Katja Filippova|2010|Coling|[paper](http://www.aclweb.org/anthology/C10-1037)|最短路径|
