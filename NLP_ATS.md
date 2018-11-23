@@ -44,4 +44,4 @@
 |27|Incorporating Copying Mechanism in Sequence-to-Sequence Learning|Jiatao Gu， Zhengdong Lu|2016|ACL|[paper](http://aclweb.org/anthology/P16-1154)|copy机制+Seq2Seq|
 |28|Pointing the Unknown Words|Caglar Gulcehre|2016|ACL|[paper](http://www.aclweb.org/anthology/P16-1014)|未知词在摘要生成中的作用|
 |29|**SEQUENCE LEVEL TRAINING WITH RECURRENT NEURAL NETWORKS**|Marc’Aurelio Ranzato, Sumit Chopra, Michael Auli, Wojciech Zaremba|2016|ICLR|[paper](https://arxiv.org/pdf/1511.06732.pdf)||
-
+|30|Neural summarization by extracting sentences and words.|Cheng J, Lapata M|2016|ACL|[paper](https://arxiv.org/pdf/1603.07252.pdf)|hierarchical + Attention|
