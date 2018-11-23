@@ -34,3 +34,4 @@
 |17|Abstractive multi-document summarization via phrase selection and merging|Lidong Bing, Piji Li, Yi Liao|2015|ACL|[paper](https://www.cs.cmu.edu/~lbing/pub/acl2015-bing.pdf)|生成式摘要+phrase细粒度|
 |18|Improving Argument Overlap for Proposition-Based Summarisation|Yimai Fang, Simone Teufel|2016|ACL|[paper](http://www.aclweb.org/anthology/P16-2078)|生成式摘要+proposition-based|
 |19|Multi-Sentence Compression: Finding Shortest Paths in Word Graphs|Katja Filippova|2010|Coling|[paper](http://www.aclweb.org/anthology/C10-1037)|最短路径|
+|20|Unsupervised Sentence Enhancement for Automatic Summarization|Jackie Chi Kit Cheung|2014|EMNLP|[paper](http://www.aclweb.org/anthology/D14-1085)|引入外部资源作为sentence-enhencement|
