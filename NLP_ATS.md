@@ -42,4 +42,6 @@
 |25|**Abstractive sentence summarization with attentive recurrent neural networks**|Sumit Chopra, Michael Auli|2016|NAACL|[paper](http://www.aclweb.org/anthology/N16-1012)|生成式摘要+RNN+Attention|
 |26|**Abstractive Text Summarization using Sequence-to-sequence RNNs and Beyond**|Ramesh Nallapati, Bowen Zhou|2016|CoNLL|[paper](http://www.aclweb.org/anthology/K16-1028)|Attention+RNN+生成式摘要|
 |27|Incorporating Copying Mechanism in Sequence-to-Sequence Learning|Jiatao Gu， Zhengdong Lu|2016|ACL|[paper](http://aclweb.org/anthology/P16-1154)|copy机制+Seq2Seq|
-|28|Pointing the Unknown Words||Caglar Gulcehre|2016|ACL|[paper](http://www.aclweb.org/anthology/P16-1014)|未知词在摘要生成中的作用|
+|28|Pointing the Unknown Words|Caglar Gulcehre|2016|ACL|[paper](http://www.aclweb.org/anthology/P16-1014)|未知词在摘要生成中的作用|
+|29|**SEQUENCE LEVEL TRAINING WITH RECURRENT NEURAL NETWORKS**|Marc’Aurelio Ranzato, Sumit Chopra, Michael Auli, Wojciech Zaremba|2016|ICLR|[paper](https://arxiv.org/pdf/1511.06732.pdf)||
+
