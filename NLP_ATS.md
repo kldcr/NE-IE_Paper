@@ -20,7 +20,7 @@
 |3|A Novel Feature-based Bayesian Model for Query Focused Multi-document Summarization |Jiwei Li, Sujian Li|2013|ACL|[paper](https://transacl.org/ojs/index.php/tacl/article/view/80/6)|基于topic增强连贯性|
 |4|Discovery of Topically Coherent Sentences for Extractive Summarization|Asli Celikyilmaz, Dilek Hakkani-Tur|2011|ACL|[paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.482.1376&rep=rep1&type=pdf)|基于topic增强连贯性|
 |5|Learning Summary Prior Representation for Extractive Summarization|Ziqiang Cao, Furu Wei, Sujian Li, Wenjie Li|2015|ACL|[paper](http://www.aclweb.org/anthology/P15-2136)|extractive模型＋CNN|
-|6|AttSum: Joint Learning of Focusing and Summarization with Neural|Ziqiang Cao, Wenjie Li, Sujian Li|201６|COLING|[paper](http://www.aclweb.org/anthology/C16-1053)|extractive模型＋Attention+DUC|
+|6|AttSum: Joint Learning of Focusing and Summarization with Neural|Ziqiang Cao, Wenjie Li, Sujian Li|2016|COLING|[paper](http://www.aclweb.org/anthology/C16-1053)|extractive模型＋Attention+DUC|
 |7|Fear the REAPER: A System for Automatic Multi-Document Summarization with Reinforcement Learning|Cody Rioux, Sadid A. Hasan|2014|ACL|[paper](http://anthology.aclweb.org/D/D14/D14-1075.pdf)|extractive模型＋强化学习+Multi-Document|
 |8|Real-Time Web Scale Event Summarization Using Sequential Decision Making||2016|arXiv|[paper](https://arxiv.org/pdf/1605.03664.pdf)|TREC数据集|
 |9|A Sentence Compression Based Framework to Query-Focused Multi-Document Summarization|Lu Wang, Claire Cardie|2013|ACL|[paper](https://www.cs.cornell.edu/home/cardie/papers/acl13-Sentence.pdf)|结合多个特定打分器构造打分函数+句子压缩+query+Multi-document|
@@ -49,3 +49,4 @@
 |32|Neural network-based abstract generation for opinions and arguments. |Wang L, Ling W|2016|NAACL|[paper](http://www.aclweb.org/anthology/N16-1007)|电影评价等文本中生成摘要|
 |33|Predicting salient updates for disaster summarization.|Kedzie C, McKeown K, Diaz F|2015|ACL|[paper](http://www.aclweb.org/anthology/P15-1155)|动态|
 |34|Evolutionary Timeline Summarization: a Balanced Optimization Framework via Iterative Substitution|Rui Yan,Xiaojun Wan|2011|SIGIR|[paper](http://www.cis.pku.edu.cn/faculty/system/zhangyan/papers/SIGIR2011-yanrui.pdf)|动态演化|
+|35|Comparative document summarization via discriminative sentence selection|Dingding Wang|2013|TKDD|[paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.172.5258&rep=rep1&type=pdf)|总结文本区别的摘要|
