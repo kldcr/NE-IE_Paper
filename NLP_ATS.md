@@ -16,7 +16,8 @@
 ## 相关论文(2017-2018)
 ||论文题目|作者|发表年份|期刊或会议|论文链接|代码链接|注释|
 |-|------|----|-------|----------|-------|----|---|
-|1|Autoencoder as Assistant Supervisor: Improving Text Representation for Chinese Social Media Text Summarization|XuSun|2018|ACL|[paper](https://arxiv.org/pdf/1805.04869v1.pdf)|[code](https://github.com/lancopku/superAE)|自动编码器（Summarization）＋双向LSTM＋对抗生成学习|
+|1|Autoencoder as Assistant Supervisor: Improving Text Representation for Chinese Social Media Text Summarization |XuSun|2018|ACL|[paper](https://arxiv.org/pdf/1805.04869v1.pdf)|[code](https://github.com/lancopku/superAE)|自动编码器（Summarization）＋双向LSTM＋对抗生成学习|
+｜2｜Deep recurrent generative decoder for abstractive text summarization||2017|EMNLP|[paper](http://aclweb.org/anthology/D17-1222)|[code](https://github.com/toru34/li_emnlp_2017)||
 
 
 ## 相关论文(-2016)
