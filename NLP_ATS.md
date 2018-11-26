@@ -53,7 +53,7 @@
 |36|Update summarization based on co-ranking with constraints|Xiaojun Wan|2012|COLING|[paper](https://pdfs.semanticscholar.org/21c2/30d55c44f75e2c7cf4d57f1bf3df513bdfef.pdf)|动态文本摘要|
 |37|Domain-independent abstract generation for focused meeting summarization|Lu Wang|2013|ACL|[paper](https://www.cs.cornell.edu/home/cardie/papers/acl13-Domain.pdf)|会议演讲摘要|
 |38|Neural Network-Based Abstract Generation for Opinions and Arguments|Lu Wang, Wang Ling|2016|NAACL|[paper](http://www.aclweb.org/anthology/N16-1007)|评价/意见摘要+RNN|
-|39||Opinosis: a graph based approach to abstractive summarization of highly redundant opinions.|Kavita Ganesan, Jiawei Han|2010|COLING|[paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.231.6542&rep=rep1&type=pdf)|评价摘要+Graph|
+|39|Opinosis: a graph based approach to abstractive summarization of highly redundant opinions.|Kavita Ganesan, Jiawei Han|2010|COLING|[paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.231.6542&rep=rep1&type=pdf)|评价摘要+Graph|
 |40|Summarizing entity descriptions for effective and efficient human-centered entity linking. ||2015|WWW|[paper](https://dl.acm.org/citation.cfm?id=2741094)|知识图谱描述摘要|
 |41| Summarizing source code using a neural attention model.||2016|ACL|[paper](https://aclweb.org/anthology/P/P16/P16-1195.pdf)|源代码描述摘要|
 |42|Exploiting category-specific information for multidocument summarization||2012|COLING|[paper](http://www.aclweb.org/anthology/C12-1128)|guidence + multi-document|
