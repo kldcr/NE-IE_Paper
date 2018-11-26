@@ -50,3 +50,9 @@
 |33|Predicting salient updates for disaster summarization.|Kedzie C, McKeown K, Diaz F|2015|ACL|[paper](http://www.aclweb.org/anthology/P15-1155)|动态|
 |34|Evolutionary Timeline Summarization: a Balanced Optimization Framework via Iterative Substitution|Rui Yan,Xiaojun Wan|2011|SIGIR|[paper](http://www.cis.pku.edu.cn/faculty/system/zhangyan/papers/SIGIR2011-yanrui.pdf)|动态演化|
 |35|Comparative document summarization via discriminative sentence selection|Dingding Wang|2013|TKDD|[paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.172.5258&rep=rep1&type=pdf)|总结文本区别的摘要|
+|36|Update summarization based on co-ranking with constraints|Xiaojun Wan|2012|COLING|[paper](https://pdfs.semanticscholar.org/21c2/30d55c44f75e2c7cf4d57f1bf3df513bdfef.pdf)|动态文本摘要|
+|37|Domain-independent abstract generation for focused meeting summarization|Lu Wang|2013|ACL|[paper](https://www.cs.cornell.edu/home/cardie/papers/acl13-Domain.pdf)|会议演讲摘要|
+|38|Neural Network-Based Abstract Generation for Opinions and Arguments|Lu Wang, Wang Ling|2016|NAACL|[paper](http://www.aclweb.org/anthology/N16-1007)|评价/意见摘要+RNN|
+|39||Opinosis: a graph based approach to abstractive summarization of highly redundant opinions.|Kavita Ganesan, Jiawei Han|2010|COLING|[paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.231.6542&rep=rep1&type=pdf)|评价摘要+Graph|
+|40|Summarizing entity descriptions for effective and efficient human-centered entity linking. ||2015|WWW|[paper](https://dl.acm.org/citation.cfm?id=2741094)|知识图谱描述摘要|
+|41| Summarizing source code using a neural attention model.||2016|ACL|[paper](https://aclweb.org/anthology/P/P16/P16-1195.pdf)|源代码描述摘要|
