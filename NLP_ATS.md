@@ -12,7 +12,14 @@
 |3 |A survey of text summarization techniques.|Ani Nenkova, Kathleen McKeown|2012|Mining text data（四区）|[paper](https://www.cs.bgu.ac.il/~elhadad/nlp16/nenkova-mckeown.pdf)||
 |4 |Automatic summarization.|Nenkova A, McKeown K|2011|Foundations and Trends® in Information Retrieval（三区）|[paper](https://www.nowpublishers.com/article/Details/INR-015)||
 
-## 相关论文
+
+## 相关论文(2017-2018)
+||论文题目|作者|发表年份|期刊或会议|论文链接|代码链接|注释|
+|-|------|----|-------|----------|-------|----|---|
+|1|Autoencoder as Assistant Supervisor: Improving Text Representation for Chinese Social Media Text Summarization|XuSun|2018|ACL|[paper](https://arxiv.org/pdf/1805.04869v1.pdf)|[code](https://github.com/lancopku/superAE)|自动编码器（Summarization）＋双向LSTM＋对抗生成学习|
+
+
+## 相关论文(-2016)
 ||论文题目|作者|发表年份|期刊或会议|论文链接|注释|
 |-|------|----|-------|----------|-------|---|
 |1|LCSTS: A Large Scale Chinese Short Text Summarization Dataset|Baotian Hu Qingcai Chen Fangze Zhu|2015|EMNLP|[paper](http://aclweb.org/anthology/D15-1229)|基于新浪数据贡献大规模中文数据集|
