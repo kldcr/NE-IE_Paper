@@ -56,3 +56,12 @@
 |39||Opinosis: a graph based approach to abstractive summarization of highly redundant opinions.|Kavita Ganesan, Jiawei Han|2010|COLING|[paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.231.6542&rep=rep1&type=pdf)|评价摘要+Graph|
 |40|Summarizing entity descriptions for effective and efficient human-centered entity linking. ||2015|WWW|[paper](https://dl.acm.org/citation.cfm?id=2741094)|知识图谱描述摘要|
 |41| Summarizing source code using a neural attention model.||2016|ACL|[paper](https://aclweb.org/anthology/P/P16/P16-1195.pdf)|源代码描述摘要|
+|42|Exploiting category-specific information for multidocument summarization||2012|COLING|[paper](http://www.aclweb.org/anthology/C12-1128)|guidence + multi-document|
+|43|**A hierarchical neural autoencoder for paragraphs and documents.** ||2015|ACL|[paper](https://nlp.stanford.edu/pubs/acl2015_jiwei.pdf)|长文本+hierarchical LSTM|
+|44|A latent variable recurrent neural network for discourse-driven language models|Yangfeng Ji, Jacob Eisenstein|NAACL|2016|[paper](http://www.aclweb.org/anthology/N16-1037)|RNN + 句子间discourse|
+
+
+## 参考论文
+||论文题目|作者|发表年份|期刊或会议|论文链接|注释|
+|-|------|----|-------|----------|-------|---|
+|1|End-to-end memory networks.||NIPS|2015|[paper](https://arxiv.org/pdf/1503.08895.pdf)||
