@@ -9,3 +9,18 @@
 
 
 ## 相关链接
+1.[GAN在NLP中的应用](https://www.jiqizhixin.com/articles/2017-02-11-13)
+
+2.Curriculum Learning for Natural Answer Generation
+
+3.A Question Type Driven Framework to Diversify Visual Question Generation
+
+4.Chinese Poetry Generation with a Working Memory Model
+
+5.Reinforcing Coherence for Sequence to Sequence Model in Dialogue Generation,
+
+6.Adversarial Active Learning for Sequences Labeling and Generation
+
+7.Commonsense Knowledge Aware Conversation Generation with Graph Attention
+
+8.Toward Diverse Text Generation with Inverse Reinforcement Learning
