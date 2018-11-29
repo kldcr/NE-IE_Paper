@@ -123,8 +123,7 @@
 
 14. Incorporating Discriminator in Sentence Generation: a Gibbs Sampling Method
 
-15. MuseGAN: Multi-track Sequential Generative Adversarial Networks for Symbolic Music
-Generation and Accompaniment
+15. MuseGAN: Multi-track Sequential Generative Adversarial Networks for Symbolic Music Generation and Accompaniment
 
 16. Order-Planning Neural Text Generation From Structured Dat
 
@@ -188,3 +187,63 @@ Generation and Accompaniment
 
 20. Generating More Interesting Responses in Neural Conversation Models with Distributional Constraints.
 
+### [EMNLP2017](https://aclanthology.coli.uni-saarland.de/events/emnlp-2017)
+1. Neural Response Generation via GAN with an Approximate Embedding Layer
+
+2. A Hybrid Convolutional Variational Autoencoder for Text Generation
+
+3. Identifying Where to Focus in Reading Comprehension for Neural Question Generation 
+
+4. When to Finish? Optimal Beam Search for Neural Text Generation (modulo beam size) 
+
+5. Steering Output Style and Topic in Neural Response Generation
+
+6. Adversarial Learning for Neural Dialogue Generation
+
+7. Challenges in Data-to-Document Generation
+
+8. Obj2Text: Generating Visually Descriptive Language from Object Layouts
+
+9. Deep Recurrent Generative Decoder for Abstractive Text Summarization
+
+10. Generating High-Quality and Informative Conversation Responses with Sequence-to-Sequence Models 
+
+### EMNLP2016
+1. Neural Text Generation from Structured Data with Application to the Biography Domain
+
+2. Deep Reinforcement Learning for Dialogue Generation
+
+3. Globally Coherent Text Generation with Neural Checklist Models 
+
+4. Neural Generation of Regular Expressions from Natural Language with Minimal Domain Knowledge 
+
+5. Neural Headline Generation on Abstractive Meaning Representation 
+
+6. AMR-to-text generation as a Traveling Salesman Problem 
+
+7. Solving and Generating Chinese Character Riddles
+
+8. Learning to Generate Textual Data
+
+9. Generating Topical Poetry 
+
+
+### NAACL2018
+
+
+### NAACL2017
+
+
+### NAACL2016
+
+
+### COLING2018
+
+
+
+### COLING2017
+
+
+
+
+### COLING2016
