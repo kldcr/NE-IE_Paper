@@ -148,4 +148,43 @@ Generation and Accompaniment
 ### AAAI2016
 
 ### EMNLP2018
-1. 
+1. Retrieval-Based Neural Code Generation.
+
+2. SQL-to-Text Generation with Graph-to-Sequence Model
+
+3. Automatic Poetry Generation with Mutual Reinforcement Learning
+
+4. Generating Syntactic Paraphrases.
+
+5. Automatic Poetry Generation with Mutual Reinforcement Learning
+
+6. Variational Autoregressive Decoder for Neural Response Generation.
+
+7. Learning Neural Templates for Text Generation. 
+
+8. Multi-Reference Training with Pseudo-References for Neural Translation and Text Generation.
+
+9. Paraphrase Generation with Deep Reinforcement Learning
+
+10. Operation-guided Neural Networks for High Fidelity Data-To-Text Generation.
+
+11. Generating Classical Chinese Poems via Conditional Variational Autoencoder and Adversarial Training
+
+12. Paragraph-level Neural Question Generation with Maxout Pointer and Gated Self-attention Networks.
+
+13. Spider: A Large-Scale Human-Labeled Dataset for Complex and Cross-Domain Semantic Parsing and Text-to-SQL Task
+
+14. Unsupervised Natural Language Generation with Denoising Autoencoders
+
+15. Answer-focused and Position-aware Neural Question Generation
+
+16. Diversity-Promoting GAN: A Cross-Entropy Based Generative Adversarial Network for Diversified Text Generation
+
+17. Towards a Better Metric for Evaluating Question Generation Systems
+
+18. Stylistic Chinese Poetry Generation via Unsupervised Style Disentanglement.
+
+19. Better Conversations by Modeling, Filtering, and Optimizing for Coherence and Diversity
+
+20. Generating More Interesting Responses in Neural Conversation Models with Distributional Constraints.
+
