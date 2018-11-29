@@ -92,3 +92,60 @@
 3. Scaling a Natural Language Generation System
 
 4. Natural Language Generation enhances human decision-making with uncertain information: NLG works for women
+
+
+### AAAI2018
+1. A Deep Generative Framework for Paraphrase Generation
+
+2. An Adversarial Hierarchical Hidden Markov Model for Human Pose Modeling and Generation
+
+3. An AI Planning Solution to Scenario Generation for Enterprise Risk Management
+
+4. Automatic Generation of Text Descriptive Comments for Code Blocks
+
+5. Controlling Global Statistics in Recurrent Neural Network Text Generation
+
+6. DLPaper2Code: Auto-generation of Code from Deep Learning Research Papers
+
+7. Elastic Responding Machine for Dialog Generation with Dynamically Mechanism Selecting
+
+8. Eliciting Positive Emotion through Affect-Sensitive Dialogue Response Generation: A Neural Network Approach
+
+9. Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory
+
+10. Event Representations for Automated Story Generation with Deep Neural Nets
+
+11. Exploring Implicit Feedback for Open Domain Conversation Generation
+
+12. Hierarchical Recurrent Attention Network for Response Generation
+
+13. Improving Variational Encoder-Decoders in Dialogue Generation
+
+14. Incorporating Discriminator in Sentence Generation: a Gibbs Sampling Method
+
+15. MuseGAN: Multi-track Sequential Generative Adversarial Networks for Symbolic Music
+Generation and Accompaniment
+
+16. Order-Planning Neural Text Generation From Structured Dat
+
+17. Table-to-text Generation by Structure-aware Seq2seq Learning
+
+18. Tree-Structured Neural Machine for Linguistics-Aware Sentence Generation
+
+
+### AAAI2017
+1. 	Topic	Aware	Neural	Response	Generation
+
+2. Joint	Copying	and	Restricted	Generation	for	Paraphrase
+
+3. Multiresolution	Recurrent	Neural	Networks:	An	Application	to	Dialogue	Response	 Generation
+
+4. Phrase-Based	Presentation	Slides	Generation	for	Academic	Papers
+
+5. Contextual	RNN-GANs	for	Abstract	Reasoning	Diagram	Generation
+
+
+### AAAI2016
+
+### EMNLP2018
+1. 
