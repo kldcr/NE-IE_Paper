@@ -34,3 +34,61 @@
 2.AGRA: An Analysis-Generation-Ranking Framework for Automatic Abbreviation from Paper Titles
 
 3.Automatic Generation of Grounded Visual Questions
+
+### IJCAI2016
+1. Controllable Procedural Content Generation via Constrained Multi-Dimensional Markov Chain Sampling
+
+2. Chinese Song Iambics Generation with Neural Attention-based Model
+
+
+### ACL2018
+1. Exemplar Encoder-Decoder for Neural Conversation Generation
+
+2. Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation.
+
+3. GTR-LSTM: A Triple Encoder for Sentence Generation from RDF Data.
+
+4. Hierarchical Neural Story Generation
+
+5. Learning to Control the Specificity in Neural Response Generation. 
+
+6.  Neural Argument Generation Augmented with Externally Retrieved Evidence
+
+7.  Soft Layer-Specific Multi-Task Summarization with Entailment and Question Generation.
+
+8.  Knowledge Diffusion for Neural Dialogue Generation. 
+
+9. A Graph-to-Sequence Model for AMR-to-Text Generation.
+
+10. On the Automatic Generation of Medical Imaging Reports
+
+11.  Language Generation via DAG Transduction
+
+12.  DialSQL: Dialogue Based Structured Query Generation.
+
+13. NeuralREG: An end-to-end approach to referring expression generation.
+
+14.  Personalized Review Generation By Expanding Phrases and Attending on Aspect-Aware Representations.
+
+15. Mixed Feelings: Natural Text Generation with Variable, Coexistent Affective Categories
+
+
+### ACL2017
+1. lexible and Creative Chinese Poetry Generation Using Neural Memory
+
+2. Neural AMR: Sequence-to-Sequence Models for Parsing and Generation
+
+3. A Syntactic Neural Model for General-Purpose Code Generation
+
+4. Abstract Syntax Networks for Code Generation and Semantic Parsing
+
+5. A Conditional Variational Framework for Dialog Generation
+
+### ACL2016
+1. A Conditional Variational Framework for Dialog Generation
+
+2. Latent Predictor Networks for Code Generation
+
+3. Scaling a Natural Language Generation System
+
+4. Natural Language Generation enhances human decision-making with uncertain information: NLG works for women
