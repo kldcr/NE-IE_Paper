@@ -228,22 +228,56 @@
 9. Generating Topical Poetry 
 
 
-### NAACL2018
+### [NAACL2018](https://naacl2018.wordpress.com/2018/03/02/list-of-accepted-papers/)
+1. A DEEP ENSEMBLE MODEL WITH SLOT ALIGNMENT FOR SEQUENCE-TO-SEQUENCE NATURAL LANGUAGE GENERATION
+
+2. AUTOMATIC DIALOGUE GENERATION WITH EXPRESSED EMOTIONS
+
+3. DIALOG GENERATION USING MULTI-TURN REASONING NEURAL NETWORKS
+
+4. DISCOURSE-AWARE NEURAL REWARDS FOR COHERENT TEXT GENERATION 
+
+5. GENERATING TOPIC-ORIENTED SUMMARIES USING NEURAL ATTENTION
+
+6. INCREASING THE RELIABILITY OF HUMAN EVALUATION FOR NATURAL LANGUAGE GENERATION BY EXPERIMENTAL DESIGN 
+
+7. LEVERAGING CONTEXT INFORMATION FOR NATURAL QUESTION GENERATION
+
+8. NATURAL ANSWER GENERATION WITH HETEROGENEOUS MEMORY
+
+9. NATURAL LANGUAGE GENERATION BY HIERARCHICAL DECODING WITH LINGUISTIC PATTERNS 
+
+10. NEURAL STORYLINE EXTRACTION MODEL FOR STORYLINE GENERATION FROM NEWS ARTICLES
+
+11. NEURAL TEXT GENERATION IN STORIES USING ENTITY REPRESENTATIONS AS CONTEXT
+
+12. TYPESQL: KNOWLEDGE-BASED TYPE-AWARE NEURAL TEXT-TO-SQL GENERATION
 
 
-### NAACL2017
 
+### [NAACL2016](http://naacl.org/naacl-hlt-2016/accepted_papers.html)
+1. A Neural Network-Based Abstract Generation Method to Opinion Summarization
 
-### NAACL2016
+2. Multi-domain Neural Network Language Generation for Spoken Dialogue Systems
 
-
-### COLING2018
-
-
-
-### COLING2017
+3. What to talk about and how? Selective Generation using LSTMs with Coarse-to-Fine Alignment
 
 
 
 
-### COLING2016
+### [COLING2018](https://coling2018.org/coling-2018-accepted-papers/)
+1. A Reinforcement Learning Framework for Natural Question Generation using Bi-discriminators 
+
+2. Adversarial Domain Adaptation for Variational Neural Language Generation in Dialogue Systems
+
+3. Context-Sensitive Generation of Open-Domain Conversational Responses
+
+4. Extractive Headline Generation Based on Learning to Rank for Community Question Answering 
+
+5. Generating Reasonable and Diversiﬁed Story Ending Using Sequence to Sequence Model with Adversarial Training
+
+6. HL-EncDec: A Hybrid-Level Encoder-Decoder for Neural Response Generation
+
+7. oint Precisely: Towards Ensuring the Precision of Data in Generated Texts Using Delayed Copy Mechanism
+
+
