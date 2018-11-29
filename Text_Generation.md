@@ -8,7 +8,9 @@
 |5|Generating Text via Adversarial Training||2016|NIPS|[paper](https://zhegan27.github.io/Papers/textGAN_nips2016_workshop.pdf)|[code](https://github.com/dreasysnail/textGAN_public)||
 
 
-## 相关链接
+## 相关论文
+
+### IJCAI2018
 1.[GAN在NLP中的应用](https://www.jiqizhixin.com/articles/2017-02-11-13)
 
 2.Curriculum Learning for Natural Answer Generation
@@ -24,3 +26,11 @@
 7.Commonsense Knowledge Aware Conversation Generation with Graph Attention
 
 8.Toward Diverse Text Generation with Inverse Reinforcement Learning
+
+
+### IJCAI2017
+1. From Neural Sentence Summarization to Headline Generation: A Coarse-to-Fine Approach
+
+2.AGRA: An Analysis-Generation-Ranking Framework for Automatic Abbreviation from Paper Titles
+
+3.Automatic Generation of Grounded Visual Questions
