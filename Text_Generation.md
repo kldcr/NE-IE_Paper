@@ -6,7 +6,9 @@
 |3|Long Text Generation via Adversarial Training with Leaked Information|Yong Yu|2018|AAAI|[paper](https://arxiv.org/pdf/1709.08624.pdf)|[code](https://github.com/VikingMew/LeakGAN)||
 |4|Texygen: A Benchmarking Platform for Text Generation Models||2018|SIGIR|[paper](https://arxiv.org/pdf/1802.01886.pdf)|[code](https://github.com/geek-ai/Texygen)||
 |5|Generating Text via Adversarial Training||2016|NIPS|[paper](https://zhegan27.github.io/Papers/textGAN_nips2016_workshop.pdf)|[code](https://github.com/dreasysnail/textGAN_public)||
-
+|6|Seqgan: Sequence generative adversarial nets with policy gradient||2017|AAAI|[paper](https://arxiv.org/pdf/1609.05473.pdf)|[code](https://github.com/LantaoYu/SeqGAN)||
+|7|Adversarial Feature Matching for Text Generation||2017|ICML|[paper](https://arxiv.org/pdf/1706.03850.pdf)|[code](https://github.com/dreasysnail/textGAN_public)||
+|8|Composite Task-Completion Dialogue Policy Learning via Hierarchical Deep Reinforcement Learning||2017|EMNLP|[paper](https://www.microsoft.com/en-us/research/uploads/prod/2017/04/emnlp2017_arxiv.pdf)|||
 
 ## 相关论文
 
