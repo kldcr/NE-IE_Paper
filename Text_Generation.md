@@ -9,7 +9,7 @@
 |6|Seqgan: Sequence generative adversarial nets with policy gradient||2017|AAAI|[paper](https://arxiv.org/pdf/1609.05473.pdf)|[code](https://github.com/LantaoYu/SeqGAN)||
 |7|Adversarial Feature Matching for Text Generation||2017|ICML|[paper](https://arxiv.org/pdf/1706.03850.pdf)|[code](https://github.com/dreasysnail/textGAN_public)||
 |8|Composite Task-Completion Dialogue Policy Learning via Hierarchical Deep Reinforcement Learning||2017|EMNLP|[paper](https://www.microsoft.com/en-us/research/uploads/prod/2017/04/emnlp2017_arxiv.pdf)|||
-
+|9|Feudal networks for hierarchical reinforcement learning||2017||[paper](https://arxiv.org/pdf/1703.01161.pdf)|[code](https://github.com/dmakian/feudal_networks)|[slices](https://pdfs.semanticscholar.org/08c4/4830dfbd1e8d3b4f39aee676c2f60a1c4319.pdf)|
 ## 相关论文
 
 ### IJCAI2018
