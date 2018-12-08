@@ -12,6 +12,13 @@
 |9|Feudal networks for hierarchical reinforcement learning||2017|ICML|[paper](https://arxiv.org/pdf/1703.01161.pdf)|[code](https://github.com/dmakian/feudal_networks)|[slices](https://pdfs.semanticscholar.org/08c4/4830dfbd1e8d3b4f39aee676c2f60a1c4319.pdf)|
 ## 相关论文
 
+### 机器翻译
+
+1. [Globally Coherent Text Generation with Neural Checklist Models](https://aclweb.org/anthology/D16-1032)
+2. [Modeling Coverage for Neural Machine Translation](https://arxiv.org/pdf/1601.04811.pdf)
+
+
+
 ### IJCAI2018
 1.[GAN在NLP中的应用](https://www.jiqizhixin.com/articles/2017-02-11-13)
 
