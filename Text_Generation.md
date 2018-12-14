@@ -13,8 +13,20 @@
 
 
 ## 融合topic的论文
-|1||Nankai|||[paper]()|||
+
 |1|Topic Aware Neural Response Generation||||[paper](https://arxiv.org/pdf/1606.08340.pdf)|||
+|2|Chinese Poetry Generation with Planning based Neural Network||||[paper](https://arxiv.org/abs/1610.09889)|||
+|3|Topic Aware Neural Response Generation||||[paper](https://arxiv.org/pdf/1606.08340.pdf)|||
+
+
+## 文本生成
+|1|Automatic Generation of News Comments Based on Gated Attention Neural Networks||||[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8114175)|||
+
+
+
+## 机器学习（深度学习）方法
+
+
 ### 机器翻译
 
 1. [Globally Coherent Text Generation with Neural Checklist Models](https://aclweb.org/anthology/D16-1032)
