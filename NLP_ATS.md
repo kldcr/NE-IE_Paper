@@ -28,11 +28,11 @@
 |7|Soft Layer-Specific Multi-Task Summarization with Entailment and Question Generation ||2018|ACL|[paper](http://aclweb.org/anthology/P18-1064)|[code]()||
 |8|Unsupervised Abstractive Meeting Summarization with Multi-Sentence Compression and Budgeted Submodular Maximization ||2018|ACL|[paper](http://aclweb.org/anthology/P18-1062)|[code]()|基于图|
 |9|Global Encoding for Abstractive Summarization ||2018|ACL|[paper](http://aclweb.org/anthology/P18-2027)|[code](https://github.com/lancopku/Global-Encoding)||
-|10|Reinforced Extractive Summarization with Question-Focused Rewards ||2018|ACL|[paper](http://aclweb.org/anthology/P18-3015)|||
-|11|Towards Opinion Summarization of Customer Reviews ||2018|ACL|[paper](http://aclweb.org/anthology/P18-3001)|||
-|12|Unsupervised Semantic Abstractive Summarization ||2018|ACL|[paper](http://aclweb.org/anthology/P18-3011)|||
-|13|Simple and Effective Text Simplification Using Semantic and Neural Methods ||2018|ACL|[paper](http://aclweb.org/anthology/P18-1016)|||
-|14|A Language Model based Evaluator for Sentence Compression ||2018|ACL|[paper](http://aclweb.org/anthology/P18-2028)|||
+|10|Reinforced Extractive Summarization with Question-Focused Rewards ||2018|ACL|[paper](http://aclweb.org/anthology/P18-3015)||Workshop|
+|11|Towards Opinion Summarization of Customer Reviews ||2018|ACL|[paper](http://aclweb.org/anthology/P18-3001)||Workshop|
+|12|Unsupervised Semantic Abstractive Summarization ||2018|ACL|[paper](http://aclweb.org/anthology/P18-3011)||Workshop|
+|13|Simple and Effective Text Simplification Using Semantic and Neural Methods ||2018|ACL|[paper](http://aclweb.org/anthology/P18-1016)||文本简化|
+|14|A Language Model based Evaluator for Sentence Compression ||2018|ACL|[paper](http://aclweb.org/anthology/P18-2028)||句子压缩|
 |15| ||2018|ACL|[paper]()|[code]()||
 |16| ||2018|ACL|[paper]()|[code]()||
 |17| ||2018|ACL|[paper]()|[code]()||
