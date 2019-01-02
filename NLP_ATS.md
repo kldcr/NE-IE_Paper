@@ -17,15 +17,28 @@
 
 
 ## 相关论文(2018)
-||论文题目|作者|发表年份|期刊或会议|论文链接|代码链接|注释|
+||论文题目|作者|发表年份|会议|论文链接|代码链接|注释|
 |-|------|----|-------|----------|-------|----|---|
 |1|Autoencoder as Assistant Supervisor: Improving Text Representation for Chinese Social Media Text Summarization |XuSun|2018|ACL|[paper](https://arxiv.org/pdf/1805.04869v1.pdf)|[code](https://github.com/lancopku/superAE)|自动编码器（Summarization）＋双向LSTM＋对抗生成学习|
 |2|`A Unified Model for Extractive and Abstractive Summarization using Inconsistency Loss` ||2018|ACL|[paper](http://aclweb.org/anthology/P18-1013)|[code](https://github.com/HsuWanTing/unified-summarization)||
 |3|Extractive Summarization with SWAP-NET: Sentences and Words from Alternating Pointer Networks ||2018|ACL|[paper](http://aclweb.org/anthology/P18-1014)|||
 |4|`Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting` ||2018|ACL|[paper](http://aclweb.org/anthology/P18-1063)|[code](https://github.com/ChenRocks/fast_abs_rl)||
 |5|Retrieve, Rerank and Rewrite: Soft Template Based Neural Summarization ||2018|ACL|[paper](http://aclweb.org/anthology/P18-1015)|[code](http://www4.comp.polyu.edu.hk/~cszqcao/)||
-
-
+|6|Neural Document Summarization by Jointly Learning to Score and Select Sentences ||2018|ACL|[paper](http://aclweb.org/anthology/P18-1061)|[code](https://github.com/magic282/NeuSum)|抽取式|
+|7|Soft Layer-Specific Multi-Task Summarization with Entailment and Question Generation ||2018|ACL|[paper](http://aclweb.org/anthology/P18-1064)|[code]()||
+|8|Unsupervised Abstractive Meeting Summarization with Multi-Sentence Compression and Budgeted Submodular Maximization ||2018|ACL|[paper](http://aclweb.org/anthology/P18-1062)|[code]()|基于图|
+|9|Global Encoding for Abstractive Summarization ||2018|ACL|[paper](http://aclweb.org/anthology/P18-2027)|[code](https://github.com/lancopku/Global-Encoding)||
+|10|Reinforced Extractive Summarization with Question-Focused Rewards ||2018|ACL|[paper](http://aclweb.org/anthology/P18-3015)|||
+|11|Towards Opinion Summarization of Customer Reviews ||2018|ACL|[paper](http://aclweb.org/anthology/P18-3001)|||
+|12|Unsupervised Semantic Abstractive Summarization ||2018|ACL|[paper](http://aclweb.org/anthology/P18-3011)|||
+|13|Simple and Effective Text Simplification Using Semantic and Neural Methods ||2018|ACL|[paper](http://aclweb.org/anthology/P18-1016)|||
+|14|A Language Model based Evaluator for Sentence Compression ||2018|ACL|[paper](http://aclweb.org/anthology/P18-2028)|||
+|15| ||2018|ACL|[paper]()|[code]()||
+|16| ||2018|ACL|[paper]()|[code]()||
+|17| ||2018|ACL|[paper]()|[code]()||
+|18| ||2018|ACL|[paper]()|[code]()||
+|19| ||2018|ACL|[paper]()|[code]()||
+|20| ||2018|ACL|[paper]()|[code]()||
 
 
 
