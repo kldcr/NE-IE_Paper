@@ -6,7 +6,7 @@
 |3|A Hierarchical End-to-End Model for Jointly Improving Text Summarization and Sentiment Classification |Xu Sun|2018|IJCAI|[paper](https://arxiv.org/pdf/1805.01089.pdf)|||4|
 |4|SentiGAN: Generating Sentimental Texts via Mixture Adversarial Networks ||2018|IJCAI|[paper](https://www.ijcai.org/proceedings/2018/0618.pdf)|[code](https://github.com/Nrgeup/SentiGAN)|情感文本生成|4|
 |5|Toward Diverse Text Generation with Inverse Reinforcement Learning ||2018|IJCAI|[paper](https://arxiv.org/pdf/1804.11258.pdf)||强化学习＋文本生成|3|
-|6| ||2018|IJCAI|[paper]()|[code]()||
+|6|Topic-to-Essay Generation with Neural Networks |Ting Liu|2018|IJCAI|[paper](http://ir.hit.edu.cn/~xcfeng/xiaocheng%20Feng's%20Homepage_files/final-topic-essay-generation.pdf)|[code](https://github.com/hit-computer/MTA-LSTM)||0|
 |7| ||2018|IJCAI|[paper]()|[code]()||
 |8| ||2018|IJCAI|[paper]()|[code]()||
 |9| ||2018|IJCAI|[paper]()|[code]()||
