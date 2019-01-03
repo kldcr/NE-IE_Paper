@@ -25,13 +25,18 @@
 |22|Frustratingly Easy Model Ensemble for Abstractive Summarization. ||2018|EMNLP|[paper](http://aclweb.org/anthology/D18-1449)|||0|
 |23|Automatic Pyramid Evaluation Exploiting EDU-based Extractive Reference Summaries. ||2018|EMNLP|[paper](http://aclweb.org/anthology/D18-1450)|||0|
 |24|Learning to Encode Text as Human-Readable Summaries using Generative Adversarial Networks ||2018|EMNLP|[paper](http://aclweb.org/anthology/D18-1451)|||0|
-|25| ||2018|EMNLP|[paper]()|[code]()|||
-|26| ||2018|EMNLP|[paper]()|[code]()|||
-|27| ||2018|EMNLP|[paper]()|[code]()|||
-|28| ||2018|EMNLP|[paper]()|[code]()|||
-|29| ||2018|EMNLP|[paper]()|[code]()|||
-|30| ||2018|EMNLP|[paper]()|[code]()|||
-|31| ||2018|EMNLP|[paper]()|[code]()|||
-|32| ||2018|EMNLP|[paper]()|[code]()|||
-|33| ||2018|EMNLP|[paper]()|[code]()|||
-|34| ||2018|EMNLP|[paper]()|[code]()|||
+|25|A DISCOURSE-AWARE ATTENTION MODEL FOR ABSTRACTIVE SUMMARIZATION OF LONG DOCUMENTS ||2018|NAACL|[paper](https://arxiv.org/pdf/1804.05685.pdf)|[code](https://github.com/acohan/long-summarization)||10|
+|26|A MIXED HIERARCHICAL ATTENTION BASED ENCODER-DECODER APPROACH FOR STANDARD TABLE SUMMARIZATION  ||2018|NAACL|[paper](https://arxiv.org/pdf/1804.07790.pdf)|||1|
+|27|DEEP COMMUNICATING AGENTS FOR ABSTRACTIVE SUMMARIZATION ||2018|NAACL|[paper](https://arxiv.org/pdf/1803.10357.pdf)|||13|
+|28|EFFECTIVE CROWDSOURCING FOR A NEW SUMMARIZATION TASK ||2018|NAACL|[paper](https://web.eecs.umich.edu/~wlasecki/pubs/AspectSummarization_NAACL2018.pdf)|||0|
+|29|ENTITY2TOPIC: SELECTIVE ENTITY SEMANTIC REPRESENTATION FOR NEURAL ABSTRACTIVE SUMMARIZATION ||2018|NAACL|[paper](https://rktamplayo.github.io/publications/naacl18.pdf)|||2|
+|30|GUIDING GENERATION FOR ABSTRACTIVE TEXT SUMMARIZATION BASED ON KEY INFORMATION GUIDE NETWORK ||2018|NAACL|[paper](http://aclweb.org/anthology/N18-2009)|||3|
+|31|MULTI-REWARD REINFORCED SUMMARIZATION WITH SALIENCY AND ENTAILMENT ||2018|NAACL|[paper](https://arxiv.org/pdf/1804.06451.pdf)|||12|
+|32|OBJECTIVE FUNCTION LEARNING TO MATCH HUMAN JUDGEMENTS FOR OPTIMIZATION-BASED SUMMARIZATION  ||2018|NAACL|[paper](http://aclweb.org/anthology/N18-2103)|||0|
+|33|PROVABLE FAST GREEDY COMPRESSIVE SUMMARIZATION WITH ANY MONOTONE SUBMODULAR FUNCTION ||2018|NAACL|[paper](http://aclweb.org/anthology/N18-1157)||压缩式摘要|1|
+|34|RANKING SENTENCES FOR EXTRACTIVE SUMMARIZATION WITH REINFORCEMENT LEARNING ||2018|NAACL|[paper](https://arxiv.org/pdf/1802.08636.pdf)|[code](https://github.com/EdinburghNLP/Refresh)|抽取式摘要＋强化学习|21|
+|35|Relational Summarization for Corpus Analysis ||2018|NAACL|[paper](http://aclweb.org/anthology/N18-1159)|||0|
+|36|Which Scores to Predict in Sentence Regression for Text Summarization? ||2018|NAACL|[paper](http://aclweb.org/anthology/N18-1161)|||2|
+|37| ||2018|NAACL|[paper]()|[code]()|||
+|38| ||2018|NAACL|[paper]()|[code]()|||
+|39| ||2018|NAACL|[paper]()|[code]()|||
