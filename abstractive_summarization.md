@@ -37,6 +37,16 @@
 |34|RANKING SENTENCES FOR EXTRACTIVE SUMMARIZATION WITH REINFORCEMENT LEARNING ||2018|NAACL|[paper](https://arxiv.org/pdf/1802.08636.pdf)|[code](https://github.com/EdinburghNLP/Refresh)|抽取式摘要＋强化学习|21|
 |35|Relational Summarization for Corpus Analysis ||2018|NAACL|[paper](http://aclweb.org/anthology/N18-1159)|||0|
 |36|Which Scores to Predict in Sentence Regression for Text Summarization? ||2018|NAACL|[paper](http://aclweb.org/anthology/N18-1161)|||2|
-|37| ||2018|NAACL|[paper]()|[code]()|||
-|38| ||2018|NAACL|[paper]()|[code]()|||
-|39| ||2018|NAACL|[paper]()|[code]()|||
+|37|A Semantic QA-Based Approach for Text Summarization Evaluation ||2018|AAAI|[paper]()|[code]()|||
+|38|Deep Reinforcement Learning for Unsupervised Video Summarization with DiversityRepresentativeness Reward ||2018|AAAI|[paper]()|[code]()|||
+|39|Faithful to the Original: Fact-Aware Neural Abstractive Summarization ||2018|AAAI|[paper]()|[code]()|||
+|40|Unity in Diversity: Learning Distributed Heterogeneous Sentence Representation for
+Extractive Summarization ||2018|AAAI|[paper]()|[code]()|||
+|41| ||2018|AAAI|[paper]()|[code]()|||
+|42| ||2018|AAAI|[paper]()|[code]()|||
+|43| ||2018|AAAI|[paper]()|[code]()|||
+|44| ||2018|AAAI|[paper]()|[code]()|||
+|45| ||2018|AAAI|[paper]()|[code]()|||
+|46| ||2018|AAAI|[paper]()|[code]()|||
+|47| ||2018|AAAI|[paper]()|[code]()|||
+|48| ||2018|AAAI|[paper]()|[code]()|||
