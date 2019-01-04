@@ -33,18 +33,7 @@
 |12|Unsupervised Semantic Abstractive Summarization ||2018|ACL|[paper](http://aclweb.org/anthology/P18-3011)||Workshop|
 |13|Simple and Effective Text Simplification Using Semantic and Neural Methods ||2018|ACL|[paper](http://aclweb.org/anthology/P18-1016)||文本简化|
 |14|A Language Model based Evaluator for Sentence Compression ||2018|ACL|[paper](http://aclweb.org/anthology/P18-2028)||句子压缩|
-|15| ||2018|ACL|[paper]()|[code]()||
-|16| ||2018|ACL|[paper]()|[code]()||
-|17| ||2018|ACL|[paper]()|[code]()||
-|18| ||2018|ACL|[paper]()|[code]()||
-|19| ||2018|ACL|[paper]()|[code]()||
-|20| ||2018|ACL|[paper]()|[code]()||
-|21| ||2018|ACL|[paper]()|[code]()||
-|22| ||2018|ACL|[paper]()|[code]()||
-|23| ||2018|ACL|[paper]()|[code]()||
-|24| ||2018|ACL|[paper]()|[code]()||
-|25| ||2018|ACL|[paper]()|[code]()||
-|26| ||2018|ACL|[paper]()|[code]()||
+
 
 
 
@@ -62,10 +51,7 @@
 |9|Joint Optimization of User-desired Content in Multi-document Summaries by Learning from User Feedback ||2017|ACL|[paper](http://www.aclweb.org/anthology/P17-1124)||引用7|
 |10|Selective Encoding for Abstractive Sentence Summarization ||2017|ACL|[paper](https://arxiv.org/pdf/1704.07073.pdf)|[code](https://github.com/toru34/zhou_acl_2017)|引用42|
 |11|Supervised Learning of Automatic Pyramid for Optimization-Based Multi-Document Summarization ||2017|ACL|[paper](http://aclweb.org/anthology/P17-1100)|[code](https://github.com/UKPLab/acl2017-optimize_pyramid)|引用2|
-|12| ||2017|ACL|[paper]()|[code]()||
-|13| ||2017|ACL|[paper]()|[code]()||
-|14| ||2017|ACL|[paper]()|[code]()||
-|15| ||2017|ACL|[paper]()|[code]()||
+
 
 
 
