@@ -42,7 +42,7 @@
 |39|Faithful to the Original: Fact-Aware Neural Abstractive Summarization ||2018|AAAI|[paper]()|[code]()|||
 |40|Unity in Diversity: Learning Distributed Heterogeneous Sentence Representation for
 Extractive Summarization ||2018|AAAI|[paper]()|[code]()|||
-|41| ||2018|AAAI|[paper]()|[code]()|||
+|41|GENERATING WIKIPEDIA BY SUMMARIZING LONG SEQUENCES ||2018|ICLR|[paper](https://openreview.net/pdf?id=Hyg0vbWC-)|[code](https://github.com/tensorflow/tensor2tensor/tree/master/tensor2tensor/data_generators/wikisum)|||
 |42| ||2018|AAAI|[paper]()|[code]()|||
 |43| ||2018|AAAI|[paper]()|[code]()|||
 |44| ||2018|AAAI|[paper]()|[code]()|||
