@@ -25,8 +25,8 @@
 |4|`Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting` ||2018|ACL|[paper](http://aclweb.org/anthology/P18-1063)|[code](https://github.com/ChenRocks/fast_abs_rl)||
 |5|Retrieve, Rerank and Rewrite: Soft Template Based Neural Summarization ||2018|ACL|[paper](http://aclweb.org/anthology/P18-1015)|[code](http://www4.comp.polyu.edu.hk/~cszqcao/)||
 |6|Neural Document Summarization by Jointly Learning to Score and Select Sentences ||2018|ACL|[paper](http://aclweb.org/anthology/P18-1061)|[code](https://github.com/magic282/NeuSum)|抽取式|
-|7|Soft Layer-Specific Multi-Task Summarization with Entailment and Question Generation ||2018|ACL|[paper](http://aclweb.org/anthology/P18-1064)|[code]()||
-|8|Unsupervised Abstractive Meeting Summarization with Multi-Sentence Compression and Budgeted Submodular Maximization ||2018|ACL|[paper](http://aclweb.org/anthology/P18-1062)|[code]()|基于图|
+|7|Soft Layer-Specific Multi-Task Summarization with Entailment and Question Generation ||2018|ACL|[paper](http://aclweb.org/anthology/P18-1064)|||
+|8|Unsupervised Abstractive Meeting Summarization with Multi-Sentence Compression and Budgeted Submodular Maximization ||2018|ACL|[paper](http://aclweb.org/anthology/P18-1062)||基于图|
 |9|Global Encoding for Abstractive Summarization ||2018|ACL|[paper](http://aclweb.org/anthology/P18-2027)|[code](https://github.com/lancopku/Global-Encoding)||
 |10|Reinforced Extractive Summarization with Question-Focused Rewards ||2018|ACL|[paper](http://aclweb.org/anthology/P18-3015)||Workshop|
 |11|Towards Opinion Summarization of Customer Reviews ||2018|ACL|[paper](http://aclweb.org/anthology/P18-3001)||Workshop|
@@ -59,9 +59,9 @@
 |6|Diversity driven attention model for query-based abstractive summarization ||2017|ACL|[paper](https://arxiv.org/pdf/1704.08300.pdf)|[code](https://github.com/PrekshaNema25/DiverstiyBasedAttentionMechanism)||
 |7|Flexible and Creative Chinese Poetry Generation Using Neural Memory ||2017|ACL|[paper](https://arxiv.org/pdf/1705.03773.pdf)||古诗生成+神经memory|
 |8|`Get To The Point: Summarization with Pointer-Generator Networks` ||2017|ACL|[paper](https://arxiv.org/pdf/1704.04368.pdf)|[code](https://github.com/abisee/pointer-generator)||
-|9| ||2017|ACL|[paper]()|[code]()||
-|10| ||2017|ACL|[paper]()|[code]()||
-|11| ||2017|ACL|[paper]()|[code]()||
+|9|Joint Optimization of User-desired Content in Multi-document Summaries by Learning from User Feedback ||2017|ACL|[paper](http://www.aclweb.org/anthology/P17-1124)||引用7|
+|10|Selective Encoding for Abstractive Sentence Summarization ||2017|ACL|[paper](https://arxiv.org/pdf/1704.07073.pdf)|[code](https://github.com/toru34/zhou_acl_2017)|引用42|
+|11|Supervised Learning of Automatic Pyramid for Optimization-Based Multi-Document Summarization ||2017|ACL|[paper](http://aclweb.org/anthology/P17-1100)|[code](https://github.com/UKPLab/acl2017-optimize_pyramid)|引用2|
 |12| ||2017|ACL|[paper]()|[code]()||
 |13| ||2017|ACL|[paper]()|[code]()||
 |14| ||2017|ACL|[paper]()|[code]()||
