@@ -39,14 +39,35 @@
 |18| ||2018|ACL|[paper]()|[code]()||
 |19| ||2018|ACL|[paper]()|[code]()||
 |20| ||2018|ACL|[paper]()|[code]()||
+|21| ||2018|ACL|[paper]()|[code]()||
+|22| ||2018|ACL|[paper]()|[code]()||
+|23| ||2018|ACL|[paper]()|[code]()||
+|24| ||2018|ACL|[paper]()|[code]()||
+|25| ||2018|ACL|[paper]()|[code]()||
+|26| ||2018|ACL|[paper]()|[code]()||
 
 
 
 ## 相关论文(2017)
 ||论文题目|作者|发表年份|期刊或会议|论文链接|代码链接|注释|
 |-|------|----|-------|----------|-------|----|---|
-|2|Deep recurrent generative decoder for abstractive text summarization||2017|EMNLP|[paper](http://aclweb.org/anthology/D17-1222)|[code](https://github.com/toru34/li_emnlp_2017)||
-|3|Improving Semantic Relevance for Sequence-to-Sequence Learning of Chinese Social Media Text Summarization|XuSun|2017|ACL|[paper](https://arxiv.org/pdf/1706.02459.pdf)|[code](https://github.com/lancopku/SRB)||
+|1|Deep recurrent generative decoder for abstractive text summarization||2017|EMNLP|[paper](http://aclweb.org/anthology/D17-1222)|[code](https://github.com/toru34/li_emnlp_2017)||
+|2|Improving Semantic Relevance for Sequence-to-Sequence Learning of Chinese Social Media Text Summarization|XuSun|2017|ACL|[paper](https://arxiv.org/pdf/1706.02459.pdf)|[code](https://github.com/lancopku/SRB)||
+|3|Abstractive Document Summarization with a Graph-Based Attentional Neural Model ||2017|ACL|[paper](http://www.aclweb.org/anthology/P17-1108)|[code](https://github.com/tanjiwei/summ)|基于图的attention神经模型|
+|4|Can Syntax Help? Improving an LSTM-based Sentence Compression Model for New Domains ||2017|ACL|[paper](http://www.aclweb.org/anthology/P17-1127)||句子压缩|
+|5|Data-Driven Broad-Coverage Grammars for Opinionated Natural Language Generation ||2017|ACL|[paper](http://www.stefanfrank.info/pubs/acl2017-cr-4.pdf)||意见生成|
+|6|Diversity driven attention model for query-based abstractive summarization ||2017|ACL|[paper](https://arxiv.org/pdf/1704.08300.pdf)|[code](https://github.com/PrekshaNema25/DiverstiyBasedAttentionMechanism)||
+|7|Flexible and Creative Chinese Poetry Generation Using Neural Memory ||2017|ACL|[paper](https://arxiv.org/pdf/1705.03773.pdf)||古诗生成+神经memory|
+|8|`Get To The Point: Summarization with Pointer-Generator Networks` ||2017|ACL|[paper](https://arxiv.org/pdf/1704.04368.pdf)|[code](https://github.com/abisee/pointer-generator)||
+|9| ||2017|ACL|[paper]()|[code]()||
+|10| ||2017|ACL|[paper]()|[code]()||
+|11| ||2017|ACL|[paper]()|[code]()||
+|12| ||2017|ACL|[paper]()|[code]()||
+|13| ||2017|ACL|[paper]()|[code]()||
+|14| ||2017|ACL|[paper]()|[code]()||
+|15| ||2017|ACL|[paper]()|[code]()||
+
+
 
 
 
