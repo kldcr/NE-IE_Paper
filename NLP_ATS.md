@@ -87,7 +87,7 @@
 |5|Data-Driven Broad-Coverage Grammars for Opinionated Natural Language Generation ||2017|ACL|[paper](http://www.stefanfrank.info/pubs/acl2017-cr-4.pdf)||意见生成|
 |6|Diversity driven attention model for query-based abstractive summarization ||2017|ACL|[paper](https://arxiv.org/pdf/1704.08300.pdf)|[code](https://github.com/PrekshaNema25/DiverstiyBasedAttentionMechanism)||
 |7|Flexible and Creative Chinese Poetry Generation Using Neural Memory ||2017|ACL|[paper](https://arxiv.org/pdf/1705.03773.pdf)||古诗生成+神经memory|
-|8|`Get To The Point: Summarization with Pointer-Generator Networks` ||2017|ACL|[paper](https://arxiv.org/pdf/1704.04368.pdf)|[code](https://github.com/abisee/pointer-generator)||
+|8|`Get To The Point: Summarization with Pointer-Generator Networks` ||2017|ACL|[paper](https://arxiv.org/pdf/1704.04368.pdf)|[code](https://github.com/abisee/pointer-generator)|引用205|
 |9|Joint Optimization of User-desired Content in Multi-document Summaries by Learning from User Feedback ||2017|ACL|[paper](http://www.aclweb.org/anthology/P17-1124)||引用7|
 |10|Selective Encoding for Abstractive Sentence Summarization ||2017|ACL|[paper](https://arxiv.org/pdf/1704.07073.pdf)|[code](https://github.com/toru34/zhou_acl_2017)|引用42|
 |11|Supervised Learning of Automatic Pyramid for Optimization-Based Multi-Document Summarization ||2017|ACL|[paper](http://aclweb.org/anthology/P17-1100)|[code](https://github.com/UKPLab/acl2017-optimize_pyramid)|引用2+抽取式|
