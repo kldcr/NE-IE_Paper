@@ -105,7 +105,9 @@
 |19|A Hybrid Convolutional Variational Autoencoder for Text Generation ||2017|EMNLP|[paper](http://aclweb.org/anthology/D17-1066)||文本生成|50|
 |20|When to Finish? Optimal Beam Search for Neural Text Generation (modulo beam size)  ||2017|EMNLP|[paper](http://aclweb.org/anthology/D17-1227)|||13|
 |21|Challenges in Data-to-Document Generation ||2017|EMNLP|[paper](http://aclweb.org/anthology/D17-1239)|[code](https://github.com/harvardnlp/data2text)|数据到文本生成|30|
-
+|22|A Neural Model for Joint Event Detection and Summarization ||2017|IJCAI|[paper](https://www.ijcai.org/proceedings/2017/0581.pdf)|[code](https://github.com/wangzq870305/joint_event_detection)||1|
+|23|From Neural Sentence Summarization to Headline Generation: A Coarse-to-Fine Approach ||2017|EMNLP|[paper](https://www.ijcai.org/proceedings/2017/0574.pdf)|||11|
+|24|Relatedness-based Multi-Entity Summarization ||2017|EMNLP|[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5644492/)|||2|
 
 
 
