@@ -82,8 +82,8 @@
 
 
 ## 相关论文(2017)
-||论文题目|作者|发表年份|期刊或会议|论文链接|代码链接|注释|
-|-|------|----|-------|----------|-------|----|---|
+||论文题目|作者|发表年份|期刊或会议|论文链接|代码链接|注释|引用|
+|-|------|----|-------|----------|-------|----|---|---|
 |1|Deep recurrent generative decoder for abstractive text summarization||2017|EMNLP|[paper](http://aclweb.org/anthology/D17-1222)|[code](https://github.com/toru34/li_emnlp_2017)||
 |2|Improving Semantic Relevance for Sequence-to-Sequence Learning of Chinese Social Media Text Summarization|XuSun|2017|ACL|[paper](https://arxiv.org/pdf/1706.02459.pdf)|[code](https://github.com/lancopku/SRB)||
 |3|Abstractive Document Summarization with a Graph-Based Attentional Neural Model ||2017|ACL|[paper](http://www.aclweb.org/anthology/P17-1108)|[code](https://github.com/tanjiwei/summ)|基于图的attention神经模型|
