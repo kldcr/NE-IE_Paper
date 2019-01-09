@@ -73,7 +73,11 @@
 |34|RANKING SENTENCES FOR EXTRACTIVE SUMMARIZATION WITH REINFORCEMENT LEARNING ||2018|NAACL|[paper](https://arxiv.org/pdf/1802.08636.pdf)|[code](https://github.com/EdinburghNLP/Refresh)|抽取式摘要＋强化学习|21|
 |35|Relational Summarization for Corpus Analysis ||2018|NAACL|[paper](http://aclweb.org/anthology/N18-1159)|||0|
 |36|Which Scores to Predict in Sentence Regression for Text Summarization? ||2018|NAACL|[paper](http://aclweb.org/anthology/N18-1161)|||2|
-
+|37|A Semantic QA-Based Approach for Text Summarization Evaluation ||2018|AAAI|[paper](https://arxiv.org/abs/1704.06259)|||0|
+|38|Cognition-Cognizant Sentiment Analysis with Multitask Subjectivity Summarization based on Annotators' Gaze Behavior ||2018|AAAI|[paper](https://abhijitmishra.github.io/papers/aaai18-multitask-sa.pdf)|||3|
+|39|Faithful to the Original: Fact-Aware Neural Abstractive Summarization ||2018|AAAI|[paper](https://arxiv.org/abs/1711.04434)|||16|
+|40|Twitter Summarization based on Social Network and Sparse Reconstruction |He Ruifang|2018|AAAI|[paper](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17031)|||0|
+|41|Unity in Diversity: Learning Distributed Heterogeneous Sentence Representation for Extractive Summarization ||2018|AAAI|[paper](https://www.semanticscholar.org/paper/Unity-in-Diversity%3A-Learning-Distributed-Sentence-Singh-Gupta/332c830987c32855c12be9d6d7a2a3ff3f84a294)|||0|
 
 
 
