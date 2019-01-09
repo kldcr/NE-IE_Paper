@@ -81,6 +81,16 @@
 |42|A Deep Reinforced Model for Abstractive Summarization ||2018|ICLR|[paper](https://arxiv.org/abs/1705.04304)|[code](https://github.com/oceanypt/A-DEEP-REINFORCED-MODEL-FOR-ABSTRACTIVE-SUMMARIZATION)||183|
 |43|MaskGAN: Better Text Generation via Filling in the _______ ||2018|ICLR|[paper](https://arxiv.org/abs/1801.07736)|[code](https://github.com/tensorflow/models/tree/master/research/maskgan)||47|
 |44|Twin Networks: Matching the Future for Sequence Generation ||2018|ICLR|[paper](https://arxiv.org/abs/1708.06742)|[code](https://github.com/ap229997/Twin-Networks-for-Sequence-Generation)||7|
+|45|Abstract Meaning Representation for Multi-Document Summarization  ||2018|COLING|[paper](https://arxiv.org/abs/1806.05655)|||2|
+|46|Abstractive Unsupervised Multi-Document Summarization using Paraphrastic Sentence Fusion ||2018|COLING|[paper](http://aclweb.org/anthology/C18-1102)|||0|
+|47|Aspect and Sentiment Aware Abstractive Review Summarization ||2018|COLING|[paper](https://www.researchgate.net/publication/329414759_Aspect_and_Sentiment_Aware_Abstractive_Review_Summarization)|||1|
+|48|Aspect-based summarization of pros and cons in unstructured product reviews ||2018|COLING|[paper](http://www.aclweb.org/anthology/C18-1188)|||0|
+|49|Structure-Infused Copy Mechanisms for Abstractive Summarization ||2018|COLING|[paper](https://arxiv.org/abs/1806.05658)|[code](https://github.com/KaiQiangSong/struct_infused_summ)||5|
+|50|Ant Colony System for Multi-Document Summarization ||2018|COLING|[paper](http://aclweb.org/anthology/C18-1062)|||0|
+|51|Ensure the Correctness of the Summary: Incorporate Entailment Knowledge into Abstractive Sentence Summarization ||2018|COLING|[paper](http://aclweb.org/anthology/C18-1121)|||1|
+|52|Summarization Evaluation in the Absence of Human Model Summaries Using the Compositionality of Word Embeddings ||2018|COLING|[paper](http://aclweb.org/anthology/C18-1077)|||1|
+|53|Vocabulary Tailored Summary Generation ||2018|COLING|[paper](http://aclweb.org/anthology/C18-1068)|||0|
+
 
 
 ## 相关论文(2017)
