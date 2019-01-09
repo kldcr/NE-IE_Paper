@@ -78,7 +78,9 @@
 |39|Faithful to the Original: Fact-Aware Neural Abstractive Summarization ||2018|AAAI|[paper](https://arxiv.org/abs/1711.04434)|||16|
 |40|Twitter Summarization based on Social Network and Sparse Reconstruction |He Ruifang|2018|AAAI|[paper](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17031)|||0|
 |41|Unity in Diversity: Learning Distributed Heterogeneous Sentence Representation for Extractive Summarization ||2018|AAAI|[paper](https://www.semanticscholar.org/paper/Unity-in-Diversity%3A-Learning-Distributed-Sentence-Singh-Gupta/332c830987c32855c12be9d6d7a2a3ff3f84a294)|||0|
-
+|42|A Deep Reinforced Model for Abstractive Summarization ||2018|ICLR|[paper](https://arxiv.org/abs/1705.04304)|[code](https://github.com/oceanypt/A-DEEP-REINFORCED-MODEL-FOR-ABSTRACTIVE-SUMMARIZATION)||183|
+|43|MaskGAN: Better Text Generation via Filling in the _______ ||2018|ICLR|[paper](https://arxiv.org/abs/1801.07736)|[code](https://github.com/tensorflow/models/tree/master/research/maskgan)||47|
+|44|Twin Networks: Matching the Future for Sequence Generation ||2018|ICLR|[paper](https://arxiv.org/abs/1708.06742)|[code](https://github.com/ap229997/Twin-Networks-for-Sequence-Generation)||7|
 
 
 ## 相关论文(2017)
