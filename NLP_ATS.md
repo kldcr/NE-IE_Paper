@@ -95,7 +95,16 @@
 |9|Joint Optimization of User-desired Content in Multi-document Summaries by Learning from User Feedback ||2017|ACL|[paper](http://www.aclweb.org/anthology/P17-1124)||引用7|
 |10|Selective Encoding for Abstractive Sentence Summarization ||2017|ACL|[paper](https://arxiv.org/pdf/1704.07073.pdf)|[code](https://github.com/toru34/zhou_acl_2017)|引用42|
 |11|Supervised Learning of Automatic Pyramid for Optimization-Based Multi-Document Summarization ||2017|ACL|[paper](http://aclweb.org/anthology/P17-1100)|[code](https://github.com/UKPLab/acl2017-optimize_pyramid)|引用2+抽取式|
-
+|12|Affinity-Preserving Random Walk for Multi-Document Summarization ||2017|EMNLP|[paper](http://aclweb.org/anthology/D17-1020)|||1|
+|13|`Hierarchically-Attentive RNN for Album Summarization and Storytelling` ||2017|EMNLP|[paper](http://aclweb.org/anthology/D17-1101)|||7|
+|14|Multi-modal Summarization for Asynchronous Collection of Text, Image, Audio and Video  ||2017|EMNLP|[paper](http://aclweb.org/anthology/D17-1114)|||6|
+|15|Cascaded Attention based Unsupervised Information Distillation for Compressive Summarization  ||2017|EMNLP|[paper](http://aclweb.org/anthology/D17-1221)|||6|
+|16|Deep Recurrent Generative Decoder for Abstractive Text Summarization ||2017|EMNLP|[paper](http://aclweb.org/anthology/D17-1222)|[code](https://github.com/toru34/li_emnlp_2017)||31|
+|17|Extractive Summarization Using Multi-Task Learning with Document Classification ||2017|EMNLP|[paper](http://aclweb.org/anthology/D17-1223)|||12|
+|18|Interactive Abstractive Summarization for Event News Tweets ||2017|EMNLP|[paper](http://aclweb.org/anthology/D17-2019)|||1|
+|19|A Hybrid Convolutional Variational Autoencoder for Text Generation ||2017|EMNLP|[paper](http://aclweb.org/anthology/D17-1066)||文本生成|50|
+|20|When to Finish? Optimal Beam Search for Neural Text Generation (modulo beam size)  ||2017|EMNLP|[paper](http://aclweb.org/anthology/D17-1227)|||13|
+|21|Challenges in Data-to-Document Generation ||2017|EMNLP|[paper](http://aclweb.org/anthology/D17-1239)|[code](https://github.com/harvardnlp/data2text)|数据到文本生成|30|
 
 
 
