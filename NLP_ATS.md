@@ -14,7 +14,10 @@
 
 -ICLR, WSDM, ICDM, CIKM, ICDE
 
-
+## 相关论文(2018)
+||论文题目|作者|发表年份|会议|论文链接|代码链接|注释|引用次数|
+|-|------|----|-------|----------|-------|----|---|---|
+|1|A DEEP REINFORCED MODEL FOR ABSTRACTIVE SUMMARIZATION||2018|ICLR|[paper](https://openreview.net/forum?id=HkAClQgA-)|[code](https://github.com/oceanypt/A-DEEP-REINFORCED-MODEL-FOR-ABSTRACTIVE-SUMMARIZATION)||184|
 
 ## 相关论文(2018)
 ||论文题目|作者|发表年份|会议|论文链接|代码链接|注释|
