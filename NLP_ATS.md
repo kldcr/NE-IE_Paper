@@ -22,15 +22,15 @@
 ## 相关论文(2018)
 ||论文题目|作者|发表年份|会议|论文链接|代码链接|注释|
 |-|------|----|-------|----------|-------|----|---|
-|1|Autoencoder as Assistant Supervisor: Improving Text Representation for Chinese Social Media Text Summarization |XuSun|2018|ACL|[paper](https://arxiv.org/pdf/1805.04869v1.pdf)|[code](https://github.com/lancopku/superAE)|自动编码器（Summarization）＋双向LSTM＋对抗生成学习|
-|2|`A Unified Model for Extractive and Abstractive Summarization using Inconsistency Loss` ||2018|ACL|[paper](http://aclweb.org/anthology/P18-1013)|[code](https://github.com/HsuWanTing/unified-summarization)||
-|3|Extractive Summarization with SWAP-NET: Sentences and Words from Alternating Pointer Networks ||2018|ACL|[paper](http://aclweb.org/anthology/P18-1014)|||
-|4|`Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting` ||2018|ACL|[paper](http://aclweb.org/anthology/P18-1063)|[code](https://github.com/ChenRocks/fast_abs_rl)||
-|5|Retrieve, Rerank and Rewrite: Soft Template Based Neural Summarization ||2018|ACL|[paper](http://aclweb.org/anthology/P18-1015)|[code](http://www4.comp.polyu.edu.hk/~cszqcao/)||
-|6|Neural Document Summarization by Jointly Learning to Score and Select Sentences ||2018|ACL|[paper](http://aclweb.org/anthology/P18-1061)|[code](https://github.com/magic282/NeuSum)|抽取式|
+|1|Autoencoder as Assistant Supervisor: Improving Text Representation for Chinese Social Media Text Summarization |XuSun|2018|ACL|[paper](https://arxiv.org/pdf/1805.04869v1.pdf)|[code](https://github.com/lancopku/superAE)|自动编码器（Summarization）＋双向LSTM＋对抗生成学习+引用6|
+|2|`A Unified Model for Extractive and Abstractive Summarization using Inconsistency Loss` ||2018|ACL|[paper](http://aclweb.org/anthology/P18-1013)|[code](https://github.com/HsuWanTing/unified-summarization)|引用3|
+|3|Extractive Summarization with SWAP-NET: Sentences and Words from Alternating Pointer Networks ||2018|ACL|[paper](http://aclweb.org/anthology/P18-1014)||引用0|
+|4|`Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting` ||2018|ACL|[paper](http://aclweb.org/anthology/P18-1063)|[code](https://github.com/ChenRocks/fast_abs_rl)|引用20|
+|5|Retrieve, Rerank and Rewrite: Soft Template Based Neural Summarization ||2018|ACL|[paper](http://aclweb.org/anthology/P18-1015)|[code](http://www4.comp.polyu.edu.hk/~cszqcao/)|引用3|
+|6|Neural Document Summarization by Jointly Learning to Score and Select Sentences ||2018|ACL|[paper](http://aclweb.org/anthology/P18-1061)|[code](https://github.com/magic282/NeuSum)|抽取式+引用4|
 |7|Soft Layer-Specific Multi-Task Summarization with Entailment and Question Generation ||2018|ACL|[paper](http://aclweb.org/anthology/P18-1064)|||
 |8|Unsupervised Abstractive Meeting Summarization with Multi-Sentence Compression and Budgeted Submodular Maximization ||2018|ACL|[paper](http://aclweb.org/anthology/P18-1062)||基于图|
-|9|Global Encoding for Abstractive Summarization ||2018|ACL|[paper](http://aclweb.org/anthology/P18-2027)|[code](https://github.com/lancopku/Global-Encoding)||
+|9|Global Encoding for Abstractive Summarization ||2018|ACL|[paper](http://aclweb.org/anthology/P18-2027)|[code](https://github.com/lancopku/Global-Encoding)|引用13|
 |10|Reinforced Extractive Summarization with Question-Focused Rewards ||2018|ACL|[paper](http://aclweb.org/anthology/P18-3015)||Workshop|
 |11|Towards Opinion Summarization of Customer Reviews ||2018|ACL|[paper](http://aclweb.org/anthology/P18-3001)||Workshop|
 |12|Unsupervised Semantic Abstractive Summarization ||2018|ACL|[paper](http://aclweb.org/anthology/P18-3011)||Workshop|
