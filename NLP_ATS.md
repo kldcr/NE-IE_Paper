@@ -18,6 +18,7 @@
 ||论文题目|作者|发表年份|会议|论文链接|代码链接|注释|引用次数|
 |-|------|----|-------|----------|-------|----|---|---|
 |1|A DEEP REINFORCED MODEL FOR ABSTRACTIVE SUMMARIZATION||2018|ICLR|[paper](https://openreview.net/forum?id=HkAClQgA-)|[code](https://github.com/oceanypt/A-DEEP-REINFORCED-MODEL-FOR-ABSTRACTIVE-SUMMARIZATION)||184|
+|2|A neural attention model for abstractive sentence summarization||2015|EMNLP|[paper](https://www.aclweb.org/anthology/D/D15/D15-1044.pdf)|[code](https://github.com/facebookarchive/NAMAS)|用神经网络做生成式摘要的开山之作|750|
 
 ## 相关论文(2018)
 ||论文题目|作者|发表年份|会议|论文链接|代码链接|注释|
