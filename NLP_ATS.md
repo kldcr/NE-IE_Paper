@@ -173,7 +173,7 @@
 |27|Incorporating Copying Mechanism in Sequence-to-Sequence Learning|Jiatao Gu， Zhengdong Lu|2016|ACL|[paper](http://aclweb.org/anthology/P16-1154)|copy机制+Seq2Seq|
 |28|Pointing the Unknown Words|Caglar Gulcehre|2016|ACL|[paper](http://www.aclweb.org/anthology/P16-1014)|未知词在摘要生成中的作用|
 |29|**SEQUENCE LEVEL TRAINING WITH RECURRENT NEURAL NETWORKS**|Marc’Aurelio Ranzato, Sumit Chopra, Michael Auli, Wojciech Zaremba|2016|ICLR|[paper](https://arxiv.org/pdf/1511.06732.pdf)||
-|30|Neural summarization by extracting sentences and words.|Cheng J, Lapata M|2016|ACL|[paper](https://arxiv.org/pdf/1603.07252.pdf)|hierarchical + Attention|
+|30|Neural summarization by extracting sentences and words.|Cheng J, Lapata M|2016|ACL|[paper](https://arxiv.org/pdf/1603.07252.pdf)|hierarchical + Attention [code](https://github.com/cheng6076/NeuralSum)|
 |31|A Dataset and Evaluation Metrics for Abstractive Compression of Sentences and Short Paragraphs|Toutanova K, Brockett C, Tran KM, Amershi S|2016|EMNLP|[paper](https://aclweb.org/anthology/D/D16/D16-1033.pdf)|Multi-reference|
 |32|Neural network-based abstract generation for opinions and arguments. |Wang L, Ling W|2016|NAACL|[paper](http://www.aclweb.org/anthology/N16-1007)|电影评价等文本中生成摘要|
 |33|Predicting salient updates for disaster summarization.|Kedzie C, McKeown K, Diaz F|2015|ACL|[paper](http://www.aclweb.org/anthology/P15-1155)|动态|
