@@ -14,6 +14,22 @@
 
 -ICLR, WSDM, ICDM, CIKM, ICDE
 
+## 相关论文(2019)
+||论文题目|作者|发表年份|会议|论文链接|代码链接|注释|引用次数|
+|-|------|----|-------|----------|-------|----|---|---|
+|1|DeepChannel: Salience Estimation by Contrastive Learning for Extractive Document
+Summarization ||2019|AAAI|[paper](https://arxiv.org/pdf/1811.02394.pdf)|[code](https://github.com/lliangchenc/DeepChannel)||1|
+|2|ScisummNet: A Large Annotated Corpus and Content-Impact Models for Scientific Paper
+Summarization with Citation Networks||2019|AAAI|[paper](https://michiyasunaga.github.io/files/papers/scisumm_aaai19_final.pdf)|||0|
+|3| Abstractive Text Summarization by Incorporating Reader Comments||2019|AAAI|[paper](https://arxiv.org/abs/1812.05407)|||0|
+|4|Exploring Human Reading Cognition for Abstractive Text Summarization||2019|AAAI||||0|
+|5|Generating Character Descriptions for Automatic Summarization of Fiction||2019|AAAI|[paper](http://digitool.library.mcgill.ca/webclient/StreamGate?folder_id=0&dvs=1557756631158~987)|||0|
+|6|Comparative Summarisation of Document Collections||2019|AAAI|[paper](https://arxiv.org/pdf/1812.02171.pdf)|||0|
+|7|Towards Personalized Review Summarization via User-aware Sequence Network||2019|AAAI|[paper]()|||0|
+|8|Personalized Review Generation by Expanding Phrases and Attending on Aspect-Aware Representations||2018|ACL|[paper](https://www.aclweb.org/anthology/P18-2112)|||1|
+
+
+
 ## 相关论文(2018)
 ||论文题目|作者|发表年份|会议|论文链接|代码链接|注释|引用次数|
 |-|------|----|-------|----------|-------|----|---|---|
