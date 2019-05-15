@@ -36,6 +36,19 @@ Summarization with Citation Networks||2019|AAAI|[paper](https://michiyasunaga.gi
 |1|A DEEP REINFORCED MODEL FOR ABSTRACTIVE SUMMARIZATION||2018|ICLR|[paper](https://openreview.net/forum?id=HkAClQgA-)|[code](https://github.com/oceanypt/A-DEEP-REINFORCED-MODEL-FOR-ABSTRACTIVE-SUMMARIZATION)||184|
 |2|A neural attention model for abstractive sentence summarization||2015|EMNLP|[paper](https://www.aclweb.org/anthology/D/D15/D15-1044.pdf)|[code](https://github.com/facebookarchive/NAMAS)|用神经网络做生成式摘要的开山之作|750|
 
+
+
+## 相关论文(2018)
+||论文题目|作者|发表年份|会议|论文链接|代码链接|注释|
+|-|------|----|-------|----------|-------|----|---|
+|1|Attentive Encoder-based Extractive Text Summarization.||2018|CIKM|[paper](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/feng-attentive-2018.pdf)||引用0|
+|2|Cross-domain Aspect/Sentiment-aware Abstractive Review Summarization||2018|CIKM|[paper](https://link.springer.com/content/pdf/10.1007%2Fs00521-018-3825-2.pdf)||引用0|
+|3|Multi-Source Pointer Network for Product Title Summarization.||2018|CIKM|[paper](https://arxiv.org/abs/1808.06885)||引用0|
+
+
+
+
+
 ## 相关论文(2018)
 ||论文题目|作者|发表年份|会议|论文链接|代码链接|注释|
 |-|------|----|-------|----------|-------|----|---|
