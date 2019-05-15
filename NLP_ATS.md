@@ -42,7 +42,7 @@ Summarization with Citation Networks||2019|AAAI|[paper](https://michiyasunaga.gi
 ||论文题目|作者|发表年份|会议|论文链接|代码链接|注释|
 |-|------|----|-------|----------|-------|----|---|
 |1|Attentive Encoder-based Extractive Text Summarization.||2018|CIKM|[paper](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/feng-attentive-2018.pdf)||引用0|
-|2|Cross-domain Aspect/Sentiment-aware Abstractive Review Summarization||2018|CIKM|[paper](https://link.springer.com/content/pdf/10.1007%2Fs00521-018-3825-2.pdf)||引用0|
+|2|Cross-domain Aspect/Sentiment-aware Abstractive Review Summarization||2018|CIKM|[paper](http://delivery.acm.org/10.1145/3270000/3269273/p1531-yang.pdf?ip=202.113.176.140&id=3269273&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2EE4E04C281054793F%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1557928140_ab619f13b221377414acefb0e0d0172b)||引用0|
 |3|Multi-Source Pointer Network for Product Title Summarization.||2018|CIKM|[paper](https://arxiv.org/abs/1808.06885)||引用0|
 
 
