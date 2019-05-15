@@ -1,3 +1,14 @@
+## 相关论文(2019)
+||论文题目|作者|发表年份|期刊或会议|论文链接|代码链接|注释|
+|-|------|----|-------|----------|-------|----|---|
+|1|Differentiated Distribution Recovery for Neural Text Generation|LiuTing|2018|IJCAI|[paper](http://www.bigdatalab.ac.cn/~gjf/papers/2019/AAAI-NTG.pdf)|||
+
+
+
+
+
+
+
 ## 相关论文(2017-2018)
 ||论文题目|作者|发表年份|期刊或会议|论文链接|代码链接|注释|
 |-|------|----|-------|----------|-------|----|---|
