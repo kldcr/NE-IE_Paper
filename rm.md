@@ -19,4 +19,4 @@
 |5|Generation meets recommendation: proposing novel items for groups of users||2018|RecSys|[paper](https://dl.acm.org/citation.cfm?id=3240357)|||0|
 |6|Explore, exploit, and explain: personalizing explainable recommendations with bandits||2018|RecSys|[paper](https://dl.acm.org/citation.cfm?id=3240354)|||0|
 |7|Why I like it: multi-task learning for recommendation and explanation||2018|RecSys|[paper](https://dl.acm.org/citation.cfm?id=3240365)|||0|
-|8|The FacT: Taming Latent Factor Models for Explainability with Factorization Trees||2018|RecSys|[paper]()|||0|
+|8|The FacT: Taming Latent Factor Models for Explainability with Factorization Trees||2018|WWW|[paper](https://www.comp.nus.edu.sg/~xiangnan/papers/www18-tem.pdf)|||33|
