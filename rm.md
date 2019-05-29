@@ -3,10 +3,11 @@
 |-|------|----|-------|----------|-------|----|---|---|
 |1|Towards Personalized Review Summarization via User-aware Sequence Network||2019|AAAI|[paper]()|||0|
 |2|Dynamic Explainable Recommendation based on Neural Attentive Models||2019|AAAI|[paper](http://yongfeng.me/attach/dynamic-explainable-recommendation.pdf)|[code](https://github.com/gearsuccess/DER)||0|
-|3|A Capsule Network for Recommendation and Explaining What You Like and Dislike||2019|SIGIR|[paper]()|||0|
-|4|Reinforcement Knowledge Graph Reasoning for Explainable Recommendation||2019|SIGIR|[paper](http://yongfeng.me/attach/xian-sigir2019.pdf)|||0|
-|5|The FacT: Taming Latent Factor Models for Explainability with Factorization Trees||2019|SIGIR|[paper]()|||0|
-|6|Visually Explainable Recommendation||2019|SIGIR|[paper]()|||0|
+|3|Explainable Recommendation Through Attentive Multi-View Learning||2019|AAAI|[paper](https://www.microsoft.com/en-us/research/publication/explainable-recommendation-through-attentive-multi-view-learning/)|||0|
+|4|A Capsule Network for Recommendation and Explaining What You Like and Dislike||2019|SIGIR|[paper]()|||0|
+|5|Reinforcement Knowledge Graph Reasoning for Explainable Recommendation||2019|SIGIR|[paper](http://yongfeng.me/attach/xian-sigir2019.pdf)|||0|
+|6|The FacT: Taming Latent Factor Models for Explainability with Factorization Trees||2019|SIGIR|[paper]()|||0|
+|7|Visually Explainable Recommendation||2019|SIGIR|[paper]()|||0|
 
 
 ## 相关论文(2018)
