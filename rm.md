@@ -8,6 +8,15 @@
 |5|Reinforcement Knowledge Graph Reasoning for Explainable Recommendation||2019|SIGIR|[paper](http://yongfeng.me/attach/xian-sigir2019.pdf)|||0|
 |6|The FacT: Taming Latent Factor Models for Explainability with Factorization Trees||2019|SIGIR|[paper]()|||0|
 |7|Visually Explainable Recommendation||2019|SIGIR|[paper]()|||0|
+|8|Multimodal Review Generation for Recommender Systems||2019|WWW|[paper]()|||0|
+|9|Persona-Aware Tips Generation||2019|WWW|[paper](https://arxiv.org/abs/1903.02156)|||0|
+|10|Feature Generation by Convolutional Neural Network for Click-Through Rate Predictio||2019|WWW|[paper](https://arxiv.org/pdf/1904.04447.pdf)|||0|
+|11|Review Response Generation in E-Commerce Platforms with External Product Information||2019|WWW|[paper]()|||0|
+|12|Improving Outfit Recommendation with Co-supervision of Fashion Generation||2019|WWW|[paper]()|||0|
+|13|CnGAN: Generative Adversarial Networks for Cross-network user preference generation for non-overlapped users||2019|WWW|[paper]()|||0|
+|14|Automatic Generation of Pattern-controlled Product Description in E-commerce||2019|WWW|[paper]()|||0|
+
+
 
 
 ## 相关论文(2018)
