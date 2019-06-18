@@ -18,7 +18,7 @@
 |3|Explainable Recommendation via Multi-Task Learning in Opinionated Text Data||2018|SIGIR|[paper](https://arxiv.org/abs/1806.03568)|[code](https://github.com/MyTHWN/MTER)||7|
 |4|Attention-driven Factor Model for Explainable Personalized Recommendation||2018|SIGIR|[paper](https://dl.acm.org/citation.cfm?id=3210083)|||4|
 |5|Generation meets recommendation: proposing novel items for groups of users||2018|RecSys|[paper](https://dl.acm.org/citation.cfm?id=3240357)|||0|
-|6|Explore, exploit, and explain: personalizing explainable recommendations with bandits||2018|RecSys|[paper](https://dl.acm.org/citation.cfm?id=3240354)|||0|
+|6|Explore, exploit, and explain: personalizing explainable recommendations with bandits||2018|RecSys|[paper](https://dl.acm.org/citation.cfm?id=3240354)|||8|
 |7|Why I like it: multi-task learning for recommendation and explanation||2018|RecSys|[paper](https://dl.acm.org/citation.cfm?id=3240365)|||0|
 |8|The FacT: Taming Latent Factor Models for Explainability with Factorization Trees||2018|WWW|[paper](https://arxiv.org/pdf/1906.02037v1.pdf)|||33|
 |9|Neural attentional rating regression with review-level explanations||2018|WWW|[paper](http://www.thuir.cn/group/~YQLiu/publications/WWW2018_CC.pdf)|||30|
