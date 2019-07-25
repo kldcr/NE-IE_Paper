@@ -4,16 +4,16 @@
 |1|Towards Personalized Review Summarization via User-aware Sequence Network||2019|AAAI|[paper]()|||0|
 |2|Dynamic Explainable Recommendation based on Neural Attentive Models||2019|AAAI|[paper](http://yongfeng.me/attach/dynamic-explainable-recommendation.pdf)|[code](https://github.com/gearsuccess/DER)||0|
 |3|Explainable Recommendation Through Attentive Multi-View Learning||2019|AAAI|[paper](https://www.microsoft.com/en-us/research/publication/explainable-recommendation-through-attentive-multi-view-learning/)|||0|
-|4|A Capsule Network for Recommendation and Explaining What You Like and Dislike||2019|SIGIR|[paper]()|||0|
-|5|Reinforcement Knowledge Graph Reasoning for Explainable Recommendation||2019|SIGIR|[paper](http://yongfeng.me/attach/xian-sigir2019.pdf)|||0|
-|6|The FacT: Taming Latent Factor Models for Explainability with Factorization Trees||2019|SIGIR|[paper]()|||0|
-|7|Visually Explainable Recommendation||2019|SIGIR|[paper]()|||0|
+|4|A Capsule Network for Recommendation and Explaining What You Like and Dislike||2019|SIGIR|[paper](https://arxiv.org/pdf/1907.00687.pdf)|||0|
+|5|Reinforcement Knowledge Graph Reasoning for Explainable Recommendation||2019|SIGIR|[paper](https://arxiv.org/pdf/1906.05237.pdf)|||2|
+|6|The FacT: Taming Latent Factor Models for Explainability with Factorization Trees||2019|SIGIR|[paper](https://arxiv.org/pdf/1906.02037.pdf)|||0|
+|7|Visually Explainable Recommendation||2019|SIGIR|[paper](https://arxiv.org/pdf/1801.10288.pdf)|||17|
 |8|Multimodal Review Generation for Recommender Systems||2019|WWW|[paper]()|||0|
 |9|Persona-Aware Tips Generation||2019|WWW|[paper](https://arxiv.org/abs/1903.02156)|||0|
 |10|Feature Generation by Convolutional Neural Network for Click-Through Rate Predictio||2019|WWW|[paper](https://arxiv.org/pdf/1904.04447.pdf)|||0|
-|11|Review Response Generation in E-Commerce Platforms with External Product Information||2019|WWW|[paper]()|||0|
+|11|Review Response Generation in E-Commerce Platforms with External Product Information||2019|WWW|[paper](http://delivery.acm.org/10.1145/3320000/3313581/p2425-zhao.pdf?ip=202.113.176.148&id=3313581&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2EE4E04C281054793F%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1564021701_2f0d477d21cb60cdc2eda87248713442)|||0|
 |12|Improving Outfit Recommendation with Co-supervision of Fashion Generation||2019|WWW|[paper]()|||0|
-|13|CnGAN: Generative Adversarial Networks for Cross-network user preference generation for non-overlapped users||2019|WWW|[paper]()|||0|
+|13|CnGAN: Generative Adversarial Networks for Cross-network user preference generation for non-overlapped users||2019|WWW|[paper](http://delivery.acm.org/10.1145/3320000/3313733/p3144-perera.pdf?ip=202.113.176.148&id=3313733&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2EE4E04C281054793F%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1564021754_f0f21888188faf4bd045f4c0b5bcf902)|||0|
 |14|Automatic Generation of Pattern-controlled Product Description in E-commerce||2019|WWW|[paper]()|||0|
 
 
