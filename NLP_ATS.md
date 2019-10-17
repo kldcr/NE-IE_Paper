@@ -15,6 +15,20 @@
 -ICLR, WSDM, ICDM, CIKM, ICDE
 
 ## 相关论文(2019)
+
+||论文题目|作者|发表年份|会议|论文链接|代码链接|注释|引用次数|
+|-|------|----|-------|----------|-------|----|---|---|
+|0| Subtopic-Driven Multi-Document Summarization||2019|EMNLP||||0|
+|0| Improving Latent Alignment in Text Summarization by Generalizing the Pointer Generator||2019|EMNLP||||0|
+|0| How to Write Summaries with Patterns? Learning towards Abstractive Summarization through Prototype Editing||2019|EMNLP|[paper](https://arxiv.org/abs/1909.08837)|||0|
+|0| Extractive Summarization of Long Documents by Combining Global and Local Context||2019|EMNLP|[paper](https://www.groundai.com/project/extractive-summarization-of-long-documents-by-combining-global-and-local-context/1)|||0|
+|0| Contrastive Attention Mechanism for Abstractive Sentence Summarization||2019|EMNLP||||0|
+|0| Concept Pointer Network for Abstractive Summarization||2019|EMNLP||||0|
+|0| Better Rewards Yield Better Summaries: Learning to Summarise Without References||2019|EMNLP|[paper](https://arxiv.org/abs/1909.01214v1)|||0|
+|0| Attribute-aware Sequence Network for Review Summarization||2019|EMNLP||||0|
+|0| Answers Unite! Unsupervised Metrics for Reinforced Summarization Models||2019|EMNLP|[paper](https://arxiv.org/abs/1909.01610v1)|||0|
+|0| An Entity-Driven Framework for Abstractive Summarization||2019|EMNLP|[paper](https://arxiv.org/abs/1909.02059)|||0|
+
 ||论文题目|作者|发表年份|会议|论文链接|代码链接|注释|引用次数|
 |-|------|----|-------|----------|-------|----|---|---|
 |1|DeepChannel: Salience Estimation by Contrastive Learning for Extractive Document
